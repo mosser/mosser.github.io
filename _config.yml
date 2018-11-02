@@ -80,38 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "<em>Professeur</em> in Software Engineering"
+  name             : "<em>Professeur</em> of Software Engineering"
   avatar           : "profile.png"
+  employer         : "Université du Québec à Montréal (UQAM), Département d'Informatique"
   bio              : "Geek, Snowboarder, and composition driven guy. Order may vary according to circumstances."
-  location         : "Montréal, CA"
-  employer         : "UQAM"
+  location         : "Faculté des Sciences"
+  office           : "Local PK-????"
+  googleMaps       : "https://goo.gl/maps/uuGS91n54YS2"
   googlescholar    : "https://scholar.google.fr/citations?user=jaLC6KgAAAAJ&hl=en"
   email            : "mosser@i3s.unice.fr"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "mosser"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "petitroll"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  researchGroup    : "ACE @UQAM"
+  researchUri      : "https://ace-design.github.io/"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/m/Mosser_0001:S=eacute=bastien"
+
 
 
 # Reading Files
