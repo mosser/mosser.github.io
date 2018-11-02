@@ -9,19 +9,19 @@
 locale                   : "en-US"
 title                    : "Sébastien Mosser"
 title_separator          : "-"
-name                     : &name "Sébastien Mosser"
+name                     : "Sébastien Mosser"
 description              : &description "personal description"
-url                      : https://mosser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://mosser.github.io
+baseurl                  : ""
 repository               : "mosser/mosser.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false
   disqus:
     shortname            :
   discourse:
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prof. in Software Engineering"
+  name             : "<em>Professeur</em> in Software Engineering"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Geek, Snowboarder, and composition driven guy. Order may vary according to circumstances."
   location         : "Montréal, CA"
   employer         : "UQAM"
   googlescholar    : "https://scholar.google.fr/citations?user=jaLC6KgAAAAJ&hl=en"
-  email            :
+  email            : "mosser@i3s.unice.fr"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -172,15 +172,6 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

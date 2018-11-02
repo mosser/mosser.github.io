@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "CV"
+title: "Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +8,61 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+You can find an extended version of my CV in French as a [PDF file](../files/CV.pdf).
+
+# Education
+
+* Habilitation in Computer Science, Université Côte d'Azur, _ongoing_
+  * _A Model-driven Approach to Support Scalable Software Composition_.
+* PhD in Computer Science, Université Nice - Sophia Antipolis, 2010.
+  * [Behavioral Compositions in Service Oriented Architecture](https://tel.archives-ouvertes.fr/tel-00531024)
+* M.Sc. in Software Engineering, Polytech Nice - Sophia Antipolis, 2007.
+  * _Motifs d'Orchestrations, vers une évolution par fusion_ (FR)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2019: _Professeur_ (cat. III) in Software Engineering
+  * Université du Québec à Montréal (UQAM), Canada
+  * Teaching: [Département d'Informatique](https://info.uqam.ca/)
+  * Research: [ACE group](http://ace-design.github.io/)
+* 2012 - 2018: _Maître de Conférences_ (tenured) in Computer Science
+  * Université Côte d'Azur (UCA, formerly Université Nice - Sophia Antipolis), France
+  * Teaching: [Computer Science]() department at Polytech Nice - Sophia Antipolis
+  * Research: [SPARKS](https://sparks.i3s.unice.fr/) team, [I3S Lab](http://www.i3s.unice.fr/en)
+* 2011 - 2012: Research Scientist (tenured) in Software Engineering
+  * _Stiftelsen for Industriell og Teknisk Forskning_ (SINTEF), Norway
+  * Research: Software and Service Innovation (formerly _Networked Systems and Services_)
+* 2010 - 2011: Post-doctoral researcher
+  * _Institut national de recherche en informatique et en automatique_ (Inria) Lille - Nord Europe, France
+  * Research: [ADAM project-team](https://www.inria.fr/en/teams/adam) (now [SPIRALS](https://www.inria.fr/en/teams/spirals))
+* 2007 - 2017: _Moniteur_ (teaching assistant)
+  * Université Nice - Sophia Antipolis, France
+  * Teaching: Polytech Nice - Sophia Antipolis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Awards
+=====
 
-Publications
+* 2018: Best paper award
+  * _Assessing the Functional Feasibility of Variability-Intensive Data Flow-Oriented Systems_, Sami Lazreg _et al._, 33th International Symposium on Applied Computing (SAC)
+* 2015 - 2019: _Prime d'Encadrement Doctoral et de Recherche_ (PEDR)
+
+Academic Service
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Conference chair:
+  * Chair: International Workshop on Modularity in Modeling (2016-...)
+  * Social Media Chair: SPLC'19, Modularity'15
+  * Career development co-chair: Services'12
+  * Demo chair: BENEVOL'10
+* Program Committee:
+  * Int. Conference on Big Data (2015-...)
+  * Int. Workshop on Modeling for Micro-services (2018)
+  * Int. Workshop on Scalable Data Management (2014-...)
+  * Int. Workshop on Model-driven Cloud engineering (2014)
+  * Int. Conference on Web Services (ICWS), (2013-...)
+  * Nordic Workshop on Cloud computing (2013, 2014)
+* Reviewer:
+  * Journal of Software and Systems (JSS)
+  * Software and system Modelling  (SoSyM)
+  * Software Quality Journal (SQJ)
+  * Empirical Software Engineering (ESE)
