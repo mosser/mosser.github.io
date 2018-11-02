@@ -4,6 +4,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Students"
+    url: /students/
+
   - title: "Research"
     url: /research/
 
