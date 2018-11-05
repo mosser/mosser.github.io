@@ -8,7 +8,7 @@
  *  no comment handling within strings
  *  no string concatenation
  *  no variable values yet
- 
+
  * Grammar implemented here:
  *  bibtex -> (string | preamble | comment | entry)*;
  *  string -> '@STRING' '{' key_equals_value '}';
