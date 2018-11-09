@@ -22,6 +22,7 @@
  *  value_braces -> '{' .*? '"'; // not quite
  *
  */
+myVar = [];
 
 function BibtexParser() {
     this.pos = 0;
@@ -483,12 +484,13 @@ function BibtexDisplay() {
                 }
             }
         } else {
-            newString = arrayString[0];
+            newString = this.firstLast(arrayString[0]);
             for (i = 1; i < searchLength; i++) {
+                var name = this.firstLast(arrayString[i]);
                 if (i + 1 >= arrayString.length) {
-                    newString += ", and " + arrayString[i];
+                    newString += ", and " + name ;
                 } else {
-                    newString += ", " + arrayString[i];
+                    newString += ", " + name;
                 }
             }
         }
@@ -501,6 +503,15 @@ function BibtexDisplay() {
         }
         return newString;
     }
+
+    this.firstLast = function(raw) {
+      var split = raw.split(",");
+      if (split.length == 2) {
+        return split[1] + " " + split[0];
+      }
+      return raw;
+    }
+
 
     this.createTemplate = function(entry, output) {
         // Check if bibtex keys are limiting output (bibtexkeys="key1|key2|...|keyN")
