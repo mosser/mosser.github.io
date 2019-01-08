@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "<em>Professeur</em> of Software Engineering"
+  name             : "<em>Maître de Conférences</em> of Computer Science"
   avatar           : "profile.png"
-  employer         : "Université du Québec à Montréal (UQAM), Département d'Informatique"
+  employer         : "Université Côte d'Azur, Polytech Nice - Sophia Antipolis"
   bio              : "Geek, Snowboarder, and composition driven guy. Order may vary according to circumstances."
-  location         : "Faculté des Sciences"
-  office           : "Local PK-????"
-  googleMaps       : "https://goo.gl/maps/uuGS91n54YS2"
+  location         : "Dept. Science Informatique"
+  office           : "Templiers I, O+444"
+  googleMaps       : "https://goo.gl/maps/jNedTKNbNJx"
   googlescholar    : "https://scholar.google.fr/citations?user=jaLC6KgAAAAJ&hl=en"
   email            : "mosser@i3s.unice.fr"
   github           : "mosser"
   twitter          : "petitroll"
-  researchGroup    : "ACE @UQAM"
+  researchGroup    : "ACE @Sparks, I3S"
   researchUri      : "https://ace-design.github.io/"
   dblp             : "https://dblp.uni-trier.de/pers/hd/m/Mosser_0001:S=eacute=bastien"
 
