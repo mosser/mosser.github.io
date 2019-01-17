@@ -7,7 +7,7 @@ date: 2018-09-20
 location: "Sophia Antipolis, France"
 website: "https://github.com/mosser/microservices"
 session: "Autumn"
-status: "current"
+status: "archived"
 language: "en"
 ---
 
