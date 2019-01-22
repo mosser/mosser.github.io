@@ -22,7 +22,7 @@ You can find an extended version of my CV in French as a [PDF file](../files/CV.
 
 Work experience
 ======
-* Starting 2019: _Professeur_ (_cat. III_) of Software Engineering
+* Starting 2019: _Professeur_ of Software Engineering
   * Université du Québec à Montréal (UQAM), Canada
   * Teaching: [Département d'Informatique](https://info.uqam.ca/)
   * Research: [ACE group](http://ace-design.github.io/)
@@ -36,7 +36,7 @@ Work experience
 * 2010 - 2011: Post-doctoral researcher
   * _Institut national de recherche en informatique et en automatique_ (Inria) Lille - Nord Europe, France
   * Research: [ADAM project-team](https://www.inria.fr/en/teams/adam) (now [SPIRALS](https://www.inria.fr/en/teams/spirals))
-* 2007 - 2017: _Moniteur_ (teaching assistant)
+* 2007 - 2010: _Moniteur_ (teaching assistant)
   * Université Nice - Sophia Antipolis, France
   * Teaching: Polytech Nice - Sophia Antipolis
 
