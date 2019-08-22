@@ -12,8 +12,6 @@ You can find an extended version of my CV in French as a [PDF file](../files/CV.
 
 # Education
 
-* (**_ongoing_**) Habilitation in Computer Science, Université Côte d'Azur,
-  * _A Model-driven Approach to Support Scalable Software Composition_.
 * 2010: PhD in Computer Science, Université Nice - Sophia Antipolis.
   * [Behavioral Compositions in Service Oriented Architecture](https://tel.archives-ouvertes.fr/tel-00531024)
 * 2007: M.Sc. in Software Engineering, Polytech Nice - Sophia Antipolis.
