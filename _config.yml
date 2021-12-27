@@ -80,19 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "<em>Professeur</em> of Software Engineering"
+  name             : "Associate Professor of Software Engineering, P. Eng. (QC), Ph.D."
   avatar           : "profile.png"
-  employer         : "Université du Québec à Montréal (UQAM), Département d'Informatique"
+  employer         : "McMaster University, Faculty of Engineering, Department of Computing and Software"
   bio              : "Geek, Snowboarder, and composition driven guy. Order may vary according to circumstances."
-  location         : "Faculté des Sciences"
-  office           : "Local PK-4820"
-  googleMaps       : "https://goo.gl/maps/uuGS91n54YS2"
+  location         : "ITB"
+  office           : "Virtual Office"
+  googleMaps       : "https://goo.gl/maps/a47LaLbBagBJvG1R6"
   googlescholar    : "https://scholar.google.fr/citations?user=jaLC6KgAAAAJ&hl=en"
   email            : "mosser.sebastien@uqam.ca"
   github           : "mosser"
   twitter          : "petitroll"
-  researchGroup    : "ACE @UQAM"
-  researchUri      : "https://ace-design.github.io/"
+  researchGroup    : "McSCert Research Centre"
+  researchUri      : "https://www.mcscert.ca/"
   dblp             : "https://dblp.uni-trier.de/pers/hd/m/Mosser_0001:S=eacute=bastien"
 
 

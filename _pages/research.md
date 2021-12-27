@@ -4,43 +4,34 @@ permalink: /research/
 author_profile: true
 ---
 
-
-During the last six years, my research effort focused on _understanding_ Software Composition. I obtained results dedicated to software composition by itself, as well as results associated with the introduction of software composition mechanisms to dedicated application domains: cyber-physical systems and service-oriented architectures.
-
-Looking for more information about Software composition? Click on the image below to reach the website of the [ACE research group](https://ace-design.github.io/) at UQAM!
-
-<div style="margin-top: 2em; margin-bottom: 2em;" align="center">
-  <a href="https://ace-design.github.io/" target="_blank">
-  <img src="/images/ACE-blue-M.png" /></a>
+<div style="float:right; margin-bottom: 1em; margin-left: 1em;">
+  <img src="/images/teacher.png" />
 </div>
 
-## Model-driven Engineering and Software Composition
+My overall research goal is to properly understand "software composition" (_i.e._, the opposite side of the "separation of concerns" – SoC – coin) and how practitioners use it. Since the defence of my Ph.D. in 2010, I obtained results dedicated to software composition and its application to a given application domain, namely cyber-physical systems. In addition, I also contributed to software engineering in general, focusing on modelling and variability management at a large scale.
 
-My research interests focus on Scalable Software Composition, using a model-driven approach to define composition operators and help software engineers while they have to design some new operators. This approach was successfully applied to heterogeneous domains such as micro-services deployment, graph databases, data collection policies and visualization dashboards.
+### Current research interests (2020 - ...)
 
-* Main publications:
-  * (2018) [Supporting Micro-services Deployment in a Safer Way: a Static Analysis and Automated Rewriting Approach]({{base.path}}/publications/#bibsac18_ben)
-  * (2018) [Enabling lock-free concurrent workers over temporal graphs composed of multiple time-series]({{base.path}}/publications/#bibcas18_lux)
-  * (2016) [Automated Deployment of Data Collection Policies over Heterogeneous Shared Sensing Infrastructures]({{base.path}}/publications/#bibapsec16)
-  * (2014) [Sensor Data Visualisation: A Composition-Based Approach to Support Domain Variability]({{base.path}}/publications/#bibecmfa14)
-  * (2012) [A Commutative Model Composition Operator to Support Software Adaptation]({{base.path}}/publications/#bibecmfa12)
+- **Microservice Architectures**: Decomposing distributed systems into microservices often creates more issues than it was supposed to solve. I am interested in observing how developers maintain and evolve such systems and providing tools to support such tasks at scale. We have curated a list of 13 open-sources microservice architectures that we are currently studying.
 
-## Cyber-physical Systems
+- **Source Code Analysis & Merging**: When talking about software development, _" code is the truth"_at the end of the day. I am interested in developing source code analysis techniques that can help software developers when working on large pieces of software. In this context, my current playground is to experiment with new source code merging algorithms and provide static analysis to understand better how software compilers (e.g., LLVM) work.
 
-This class of systems is interesting with respect to model-driven engineering and software composition due to their constrained essence. In this domain, I focused my effort in the definition of model-based composition operators dedicated to data collection policies and large scale sensor networks. This research is made in collaboration with researchers from other domains (_e.g._, geosciences) to experiment with real use cases.
+- **Scalable Software Development**: This dimension covers my workaround DevOps, considering that making software development scalable is not all about technical work. It also covers requirements engineering and human aspects. I am particularly interested in linking requirements to development, build and deployment artifacts in this context. I am also investigating how NLP techniques can improve how requirements can be used in such a context.
 
-* Main publications:
-  * (2019) [Leveraging live machine learning and deep sleep to support a self-adaptive efficient configuration of battery powered sensors]({{base.path}}/publications/#bibfgs)
-  * (2016) [Towards a (de)composable workflow architecture to define data collection policies]({{base.path}}/publications/#bibsac16)
-  * (2015) [Software Development Support for Shared Sensing Infrastructures: A Generative and Dynamic Approach]({{base.path}}/publications/#bibicsr15)
-  * (2014) [An Architecture to Support the Collection of Big Data in the Internet of Things]({{base.path}}/publications/#bibumc14)
+### Previous research interests (until 2020)
 
-## Service-oriented Architectures
+- **Software composition general mechanisms**: I focused my efforts on defining composition operators while measuring the benefits of introducing software composition in various application domains (_e.g._, graph databases, kernel development, micro-services deployment, business processes). Classical software composition approaches rely on total ordering. I proposed strategies that free the software developer from identifying an application order when composing artifacts, depending on algebraic properties such as commutativity. 
 
-My PhD thesis focused on a model-based approach dedicated to tame the design complexity associated to business processes modeling in Service-oriented Architectures. I applied this approach to quality of service modelling and cloud-computing deployment.
+- **Cyber-Physical Systems (CPSs)**: In this domain, I focused my effort on defining model-based composition operators dedicated to data collection policies and large-scale sensor networks. These operators allow one to reuse an existing network by deploying new applications on top of it instead of building a new sensor network from scratch. This is very important in the context of Smart Cities, for example.
 
-* Main publications
-  * (2013) [ADORE, a Logical Meta-model Supporting Business Process Evolution]({{base.path}}/publications/#bibscp13)
-  * (2013) [A Causal Model to predict the Effect of Business Process Evolution on Quality of Service]({{base.path}}/publications/#bibqosa13)
-  * (2012) [Towards CloudML, a Model-based Approach to Provision Resources in the Clouds]({{base.path}}/publications/#bibcloudmde12)
-  * (2010) [Workflow Design using Fragment Composition (Crisis Management System Design through ADORE)]({{base.path}}/publications/#bibtaosd10)
+- **Software Modelling and Variability Management**: Considering software modelling, I applied _Model-Driven Engineering_ (MDE) approaches to variability management in various domains such as modelling languages, business processes or continuous integration. My other contributions to variability management were focused on managing large-scale software product lines, leading to the registration of a French patent. I have also dedicated efforts in my research contributions to teaching software modelling and variability management. Since 2018, I am also involved in an initiative targeting the improvement of MDE teaching.
+
+### Ongoing Funding
+
+I am thankful for the support of my research by the following research agencies: National Science and Engineering Council (NSERC), Institut National de la Recherche en Informatique et Automatique (Inria),  New Frontiers in Research Fund (NFRF), Fond de Recherche Québécois – Nature et Technologie (FRQNT), and Audace Intersectoral Program. I am also receiving tremendous support from the startup package provided by the Faculty of Engineering at McMaster University.
+
+- **S. Mosser** (PI). A compositional approach to support developers in developing ultra-large-scale systems. National Sciences and Engineering Research Council (NSERC), Discovery grant. 2020 – 2025. 145k\\$.
+- L. Gonnord (co-PI), **S. Mosser** (co-PI).  Characterisation of Program Evolution with static analysis. Institut National de la Recherche en Informatique et Automatique (Inria), Associated team. 2020 – 2023. 50k\\$ (part of funding: 25k\\$, 50%).
+- M.-J. Meurs (PI), M. Benichou, G. Bondolfi, M. Bonenfant, S. Gambs, C. Malaterre, D. Martin, F. Millerand, **S. Mosser**. RELAI: Respectful and Explainable AI to Support Struggling People and Mental Health Practitioners. New Frontiers in Research Fund (NFRF), Exploration program. 2019 – 2023. 250k\\$ (part of funding: 50k\\$, 20%).
+- C. Messier (PI), M.-J. Meurs, J. Dupras, T. Handa, **S. Mosser**, A. Paquette, A. Smargiassi. SylvCiT: un logiciel intelligent pour maximiser la résilience et les bienfaits des arbres municipaux face aux changements globaux. Fond de Recherche Québécois – Nature et Technologie (FRQNT). Visage Municipal program. 2021 – 2023. 140k\\$ (part of funding: 35k\\$, 25%).
+- S. Vial (PI), A.-F. Audrain-Pontevia, M.-P. Gagnon, S. Guay, **S. Mosser**, S. Vezeau. Fonds de Recherche Québécois (FRQ), Audace Intersectoral Program. 2021 – 2023. 100k$ (part of funding: 20k\\$, 20%). 
