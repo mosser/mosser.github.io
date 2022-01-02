@@ -41,6 +41,8 @@ You can find an extended version of my CV using McMaster official template as a 
 
 ### Awards
 
+* 2021: Best reviewer award
+  * _ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS)_
 * 2018: Best paper award
   * _Assessing the Functional Feasibility of Variability-Intensive Data Flow-Oriented Systems_, Sami Lazreg _et al._, 33th International Symposium on Applied Computing (SAC)
 * 2015 - 2019: _Prime d'Encadrement Doctoral et de Recherche_ (PEDR)

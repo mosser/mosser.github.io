@@ -26,7 +26,7 @@ I am regularly invited to talk about my research interests, as well as the way w
 - _Justification Diagrams in a DevOps Context_. Model-driven Engineering & Requirements Engineering working groups, CNRS. Dec. 2021.
 - _Building a CI/CD pipeline (demo)_. Association Générale des Étudiantes et Étudiants en Informatique de l'UQAM (Invited seminar). Dec. 2021. 
 - _User stories & Acceptance Testing_. Canada Border Services Agency (PD&DD, BTID), Nov. 2021.
-- _Building Software for the Ageing Population: A Software Engineering Point of View_. Smart Mobility for the aqgeaing Population (sMAP) research seminar, Canada. Oct. 2021.
+- _Building Software for the Ageing Population: A Software Engineering Point of View_. Smart Mobility for the ageing Population (sMAP) research seminar, Canada. Oct. 2021.
 - _RELAI: Where DevOps meets Mental (e-)Health_. M.Sc. in Software Engineering guest lecture, Université Côte d'Azur, France. Oct. 2021.
 - _Docker in a CI/CD context_. Canada Border Services Agency (PD&DD, BTID), Oct. 2021.
 - _Building JUnit: a Software design case study_. Master ICE guest lecture, University of Toulouse, France. May 2021. 
