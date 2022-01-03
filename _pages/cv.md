@@ -25,7 +25,7 @@ You can find an extended version of my CV using McMaster official template as a 
 ### Professional Organizations
 
 * _Ordre des Ingénieurs du Québec_ (OIQ):
-  * 12/21-...: Full-fledged Engineer (P. Eng.)
+  * 12/21-...: Full-fledged Engineer (P.Eng.)
   * 08/21 - 12/21: _Permis Restrictif Temporaire en Génie_ (Jr. Ing.)
 
 ### Work experience
