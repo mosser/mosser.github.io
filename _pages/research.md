@@ -16,7 +16,7 @@ My overall research goal is to properly understand "software composition" (_i.e.
 
 - **Source Code Analysis & Merging**: When talking about software development, "_code is the truth_" at the end of the day. I am interested in developing source code analysis techniques that can help software developers when working on large pieces of software. In this context, my current playground is to experiment with new source code merging algorithms and provide static analysis to understand better how software compilers (e.g., LLVM) work.
 
-- **Scalable Software Development**: This dimension covers my workaround DevOps, considering that making software development scalable is not all about technical work. It also covers requirements engineering and human aspects. I am particularly interested in linking requirements to development, build and deployment artifacts in this context. I am also investigating how NLP techniques can improve how requirements can be used in such a context.
+- **Scalable Software Development**: This dimension covers my work on DevOps, considering that making software development scalable is not all about technical work. It also covers requirements engineering and human aspects. I am particularly interested in linking requirements to development, build and deployment artifacts in this context. I am also investigating how NLP techniques can improve how requirements can be used in such a context.
 
 ### Previous research interests (until 2020)
 
