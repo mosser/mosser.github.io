@@ -1,0 +1,20 @@
+<svg width="53" height="20" viewBox="0 0 530 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="DOI">
+  <title>DOI</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="530" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="212" height="200" fill="#555"/>
+    <rect width="318" height="200" fill="#08C" x="212"/>
+    <rect width="530" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="267" y="148" textLength="218" fill="#000" opacity="0.25">DOI</text>
+    <text x="257" y="138" textLength="218">DOI</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE0LjA1IDIuNzVMMTkgNS42YTIuMTQgMi4xNCAwIDAxMy40LjQgMi4xNSAyLjE1IDAgMDEtMS4zNSAzLjE1djUuN0EyLjEzIDIuMTMgMCAwMTIyLjQgMThhMi4xNCAyLjE0IDAgMDEtMy40NS4zNWwtNC45IDIuODRhMi4xNCAyLjE0IDAgMTEtNC4xLjA3TDUuMDIgMTguNGEyLjE0IDIuMTQgMCAxMS0yLjA1LTMuNTZ2LTUuN0EyLjE0IDIuMTQgMCAxMTUuMDEgNS42bDQuOTQtMi44NWEyLjE0IDIuMTQgMCAxMTQuMSAwem0tLjUxLjg4YS44LjggMCAwMS0uMDYuMDZsNi40NiAxMS4xOS4wOC0uMDN2LTUuN2EyLjE0IDIuMTQgMCAwMS0xLjU2LTIuNmwuMDItLjA2LTQuOTQtMi44NnptLTMuMDIuMDZsLS4wNi0uMDYtNC45NSAyLjg1YTIuMTQgMi4xNCAwIDAxLTEuNDYgMi42NGwtLjA3LjAzdjUuN2wuMDguMDMgNi40Ni0xMS4yem0yLjA4LjVjLS40LjEyLS44LjEyLTEuMiAwTDQuOTQgMTUuNGMuMy4yOC41LjY0LjYgMS4wM2gxMi45MmMuMS0uNC4zLS43Ni42LTEuMDRMMTIuNiA0LjE5em0uOTggMTYuMjNsNC45Mi0yLjg0LS4wNC0uMTRINS41NGwtLjAyLjA4IDQuOTQgMi44NmEyLjE0IDIuMTQgMCAwMTMuMTIuMDV6Ii8+PC9zdmc+Cg=="/>
+</svg>

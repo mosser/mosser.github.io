@@ -83,11 +83,11 @@ author_profile: true
           <span class="if month"><span class="month"></span>,</span>
           <span class="if year"><span class="year"></span>.</span>
           <span class="if note"> <span class="note"></span>.</span>
-          <span class="if url"><a class="url" target="_blank">(DOI)</a></span>
-          <span class="if pdf"><a class="pdf" target="_blank">(PDF)</a></span>
-          <a class="bibtexVar" role="button" href="#bib+BIBTEXKEY+"
+          <span class="if url"><a class="url" target="_blank"><img src="{{ base_path }}/bibtex/doi.svg" alt="doi" /></a></span>
+          <span class="if pdf">&thinsp;<a class="pdf" target="_blank"><img src="{{ base_path }}/bibtex/oa.svg" alt="open access" /></a></span>
+          &thinsp;<a class="bibtexVar" role="button" href="#bib+BIBTEXKEY+"
              onclick="$('#bibraw+BIBTEXKEY+').toggle();"
-             extra="BIBTEXKEY">(BibTeX)</a>
+             extra="BIBTEXKEY"><img src="{{ base_path }}/bibtex/bibtex.svg" alt="bibtex" /></a>
         </div>
         <div class="bibtexVar" style="display: none;"
              id="bibraw+BIBTEXKEY+" extra="BIBTEXKEY">
