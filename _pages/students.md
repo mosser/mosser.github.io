@@ -4,12 +4,12 @@ permalink: /students/
 author_profile: true
 ---
 
-### Join the lab!
+### Join the team!
 
-I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a graduate student or postdoc, feel free to drop me an introductory email, mentioning which recent research work I've conducted excites you the most.
+I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a graduate student or postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student), mentioning which recent research work I've conducted excites you the most. 
 
 
-### Current Graduate Students
+### Current Students
 
   - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
     - Co-supervised with Sylvie Trudel (UQAM)
@@ -17,6 +17,7 @@ I am always interested in having motivated students join the lab to work on exci
     - Co-supervised with Francis Bordeleau (ETS)
   - Mohamed Dramane Jean-Philippe Koïta (M.Eng., _Université du Québec à Montréal_). 09/2021-...
   - Amine Soufyani (M.Eng., _Université du Québec à Montréal_). 09/2021-...
+  - Normand Lancelot (B.Sc., _Université du Québec à Montréal_). 07/2021-...
 
 ### Graduated Ph.D. Students
 
