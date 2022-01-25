@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Associate Professor of Software Engineering, P.Eng. (QC), Ph.D."
+  name             : "Associate Professor of Software Engineering, PEng (QC), PhD"
   avatar           : "profile.png"
   employer         : "McMaster University, Faculty of Engineering, Department of Computing and Software"
   bio              : "Geek, Snowboarder, and composition driven guy. Order may vary according to circumstances."
-  location         : "ITB"
-  office           : "Virtual Office"
+  location         : "Hamilton, ON"
+  office           : "ITB/129"
   googleMaps       : "https://goo.gl/maps/a47LaLbBagBJvG1R6"
   googlescholar    : "https://scholar.google.fr/citations?user=jaLC6KgAAAAJ&hl=en"
   email            : "mossers@mcmaster.ca"
   github           : "mosser"
   twitter          : "petitroll"
-  researchGroup    : "McSCert Research Centre"
+  researchGroup    : "McSCert Lab"
   researchUri      : "https://www.mcscert.ca/"
   dblp             : "https://dblp.uni-trier.de/pers/hd/m/Mosser_0001:S=eacute=bastien"
 

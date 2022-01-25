@@ -6,7 +6,7 @@ author_profile: true
 
 ### Join the team!
 
-I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a graduate student or postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student), mentioning which recent research work I've conducted excites you the most. 
+I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student), mentioning which recent research work I've conducted excites you the most. 
 
 
 ### Current Students
@@ -18,9 +18,12 @@ I am always interested in having motivated students join the lab to work on exci
   - Mohamed Dramane Jean-Philippe Koïta (M.Eng., _Université du Québec à Montréal_). 09/2021-...
   - Amine Soufyani (M.Eng., _Université du Québec à Montréal_). 09/2021-...
   - Normand Lancelot (B.Sc., _Université du Québec à Montréal_). 07/2021-...
-  - Alexandre Lachance (B.Sc., _Université du Québec à Montréal_). 01/22-...
-    - Co-supervised with Camille Alloing (UQAM) and Julien Pierre (Audencia Design School/U Sherbrooke).
-  - Sathurshan Arulmohan (B.Sc., _McMaster University_). 05/22-...
+    - Co-supervised with Marie-Jean Meurs (UQAM)
+  - Alexandre Lachance (B.Sc., _Université du Québec à Montréal_). 01/2022-...
+    - Co-supervised with Camille Alloing (UQAM) and Julien Pierre (Audencia).
+  - Sathurshan Arulmohan (B.Eng., _McMaster University_). 05/2022 - 09/2022
+  - Floriane Paris (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
+  - Abdel-Qahar Traore (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
 
 ### Graduated Ph.D. Students
 
