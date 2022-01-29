@@ -24,9 +24,8 @@ You can find an extended version of my CV using McMaster official template as a 
 
 ### Professional Organizations
 
-* _Ordre des Ingénieurs du Québec_ (OIQ):
-  * 12/21-...: Full-fledged Engineer (P.Eng.)
-  * 08/21 - 12/21: _Permis Restrictif Temporaire en Génie_ (Jr. Ing.)
+* _Ordre des Ingénieurs du Québec_ (OIQ): licensed engineer (PEng)
+* _Société Informatique de France_ (SIF): member
 
 ### Work experience
 * 2022 - ...: Associate Professor of Software Engineering 
