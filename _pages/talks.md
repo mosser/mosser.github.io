@@ -22,6 +22,7 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Invited Talks
 
+- _Génie Logiciel pour la Population Vieillissante_. La France à l'UQAM, Feb. 2022.
 - _Software Composition for the IoT & Cloud_. Canada Border Services Agency (PD&DD, BTID), Dec. 2021.
 - _Justification Diagrams in a DevOps Context_. Model-driven Engineering & Requirements Engineering working groups, CNRS. Dec. 2021.
 - _Building a CI/CD pipeline (demo)_. Association Générale des Étudiantes et Étudiants en Informatique de l'UQAM (Invited seminar). Dec. 2021. 
