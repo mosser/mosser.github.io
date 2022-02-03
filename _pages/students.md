@@ -71,6 +71,7 @@ I am always interested in having motivated students join the lab to work on exci
 
 - 2021:
   - Kevin Moriceau, M.Eng. internship. Collecting text messages from user’s phone while respecting privacy.
+  - Rupanshu Soi, B.Sc. internship. Exploration of compiler infrastructure (MITACS Globalink)
   - Sofiane Selaoui, B.Sc. internship. Empirical evaluation of microservices co-evolution.
   - Normand Lancelot, B.Sc. internship. Extracting emotions from a twitter corpus.
   - Amélie Lachapelle-Dagenais, B.Sc. internship (2x). Adapting an application to the aging population.
@@ -80,7 +81,7 @@ I am always interested in having motivated students join the lab to work on exci
   - Avril de Goër de Herve, M.Sc. internship. Impact analysis of compilation passes in LLVM.
   - Jérémy Fornarino, M.Eng. internship. Collecting mental-health data from patients’ phones.
   - Yan Conigliaro, M.Eng. internship. Mining GitHub to build a corpus of conflicting merge scenarios. 
-  - Olivier Levasseur, B.Sc. internship. Heuristics to improve git-merge for Java programs.
+  - Olivier Levasseur, B.Sc. internship. Heuristics to improve git-merge for Java programs. (NSERC USRA)
   - Pierre Froidevaux, M.Eng. internship. Visualization dashboards to supervise students’ cohorts.
   - Rayan Lakdhar, M.Eng. internship. Securing a medical data collection pipeline.
   - Lou-Théo Laurent, M.Eng. internship. A DSL to deploy scientific applications using Compute Canada.
