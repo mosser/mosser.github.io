@@ -6,7 +6,11 @@ author_profile: true
 
 ### Courses offered at McMaster University (2022 - ...)
 
-  - (Micro-)Service Oriented Architectures (graduate)
+  - Software Design I - Introduction to Software Development (undergrad, SFWRENG 2AA4)
+    - Sessions: Winter 2023
+  - Software Engineering Practice and Experience: Binding Theory to Practice (undergrad, SFWRENG 3XB3)
+    - Sessions: Fall 2022
+  - (Micro-)Service Oriented Architectures (graduate, CAS 735)
     - Sessions: _To be announced_
 
 ### Courses offered at Université du Québec à Montréal (2019 - 2021)
