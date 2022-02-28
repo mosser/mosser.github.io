@@ -6,11 +6,14 @@ author_profile: true
 
 ### Courses offered at McMaster University (2022 - ...)
 
-  - Software Design I - Introduction to Software Development (undergrad, SFWRENG 2AA4)
+  - Software Design I - Introduction to Software Development
+    - Description: [SFWRENG 2AA4](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=228791) (Undergrad - Level II, mandatory, 4 units)
     - Sessions: Winter 2023
-  - Software Engineering Practice and Experience: Binding Theory to Practice (undergrad, SFWRENG 3XB3)
+  - Software Engineering Practice and Experience: Binding Theory to Practice
+    - Description: [SFWRENG 3XB3](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=230536) (Undergrad - Level III, mandatory, 3 units)
     - Sessions: Fall 2022
-  - (Micro-)Service Oriented Architectures (graduate, CAS 735)
+  - (Micro-)Service Oriented Architectures
+    - Description: CAS 735 (Graduate, elective, 3 units)
     - Sessions: _To be announced_
 
 ### Courses offered at Université du Québec à Montréal (2019 - 2021)
