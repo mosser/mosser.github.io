@@ -22,6 +22,8 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Invited Talks
 
+- _Dockerizing your Teaching: Do's and Don'ts_. The MDE Network, Mar. 2022
+- _Software Composition in a Cyber-Physical World_. Canada-Norway collaboration, Østfold College, Mar 2022.
 - _Génie Logiciel pour la Population Vieillissante_. La France à l'UQAM, Feb. 2022.
 - _Software Composition for the IoT & Cloud_. Canada Border Services Agency (PD&DD, BTID), Dec. 2021.
 - _Justification Diagrams in a DevOps Context_. Model-driven Engineering & Requirements Engineering working groups, CNRS. Dec. 2021.
