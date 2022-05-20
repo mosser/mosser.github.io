@@ -21,11 +21,13 @@ I am always interested in having motivated students join the lab to work on exci
     - Co-supervised with Marie-Jean Meurs (UQAM)
   - Alexandre Lachance (B.Sc., _Université du Québec à Montréal_). 01/2022-...
     - Co-supervised with Camille Alloing (UQAM) and Julien Pierre (Audencia).
+  - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
+  - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
+  - Azam Mahdipour (M.Eng., _McMaster University_). 09/2022-...
   - Summer Interns:
     - Sathurshan Arulmohan (B.Eng., _McMaster University_). 05/2022 - 09/2022 (Dean's Excellence award)
     - Richard Li (B.Eng., _McMaster University_). 05/2022 - 09/2022 (NSERC USRA)
     - Floriane Paris (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
-    - Abdel-Qahar Traore (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
 
 
 ### Graduated Ph.D. Students

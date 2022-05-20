@@ -14,7 +14,7 @@ author_profile: true
     - Sessions: Fall 2022
   - (Micro-)Service Oriented Architectures
     - Description: CAS 735 (Graduate, elective, 3 units)
-    - Sessions: _To be announced in 2022-2023_
+    - Sessions: Fall 2022
 
 ### Courses offered at Université du Québec à Montréal (2019 - 2021)
 
