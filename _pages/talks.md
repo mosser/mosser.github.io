@@ -8,6 +8,8 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Keynotes
 
+- _From Software Composition at Scale to Scaling software composition: 50 shades of scalability_, Consortium for Software Engineering Research (CSER)
+2022 Spring Meeting. May 2022. [PDF](/files/slides/202205_CSER.pdf)
 - _Applying Software Composition to the Docker Ecosystem_ (with B. Benni), Amadeus Global Tech Forum. Oct. 2018.
 - _Renforcer l’engagement étudiant en projet_. Journées sur la pédagogie active, Université Bretagne-Loire. Keynote. July 2017.
 - _Projets, Agilité & École d’Ingénieur_. Journées sur l’Innovation Pédagogique, Université du Maine. Keynote. Mar. 2017.
