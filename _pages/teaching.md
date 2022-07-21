@@ -13,7 +13,7 @@ author_profile: true
     - Description: [SFWRENG 3XB3](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=230536) (Undergrad - Level III, mandatory, 3 units)
     - Sessions: Fall 2022
   - (Micro-)Service Oriented Architectures
-    - Description: CAS 735 (Graduate, elective, 3 units)
+    - Description: [CAS 735](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=46&coid=243261&) (Graduate, elective, 3 units)
     - Sessions: Fall 2022
 
 ### Courses offered at Université du Québec à Montréal (2019 - 2021)

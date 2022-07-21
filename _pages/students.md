@@ -11,23 +11,22 @@ I am always interested in having motivated students join the lab to work on exci
 
 ### Current Students
 
-  - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
-    - Co-supervised with Sylvie Trudel (UQAM)
-  - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021-...
-    - Co-supervised with Francis Bordeleau (ETS)
-  - Mohamed Dramane Jean-Philippe Koïta (M.Eng., _Université du Québec à Montréal_). 09/2021-...
-  - Amine Soufyani (M.Eng., _Université du Québec à Montréal_). 09/2021-...
-  - Normand Lancelot (B.Sc., _Université du Québec à Montréal_). 07/2021-...
-    - Co-supervised with Marie-Jean Meurs (UQAM)
   - Alexandre Lachance (B.Sc., _Université du Québec à Montréal_). 01/2022-...
     - Co-supervised with Camille Alloing (UQAM) and Julien Pierre (Audencia).
-  - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
-  - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
+  - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
+    - Co-supervised with Sylvie Trudel (UQAM)
   - Azam Mahdipour (M.Eng., _McMaster University_). 09/2022-...
+  - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021-...
+    - Co-supervised with Francis Bordeleau (ETS)
+  - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
+  - Amine Soufyani (M.Eng., _Université du Québec à Montréal_). 09/2021-...
+  - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
   - Summer Interns:
     - Sathurshan Arulmohan (B.Eng., _McMaster University_). 05/2022 - 09/2022 (Dean's Excellence award)
     - Richard Li (B.Eng., _McMaster University_). 05/2022 - 09/2022 (NSERC USRA)
+    - Alexandre Niney (B.Sc., _Université du Québec à Montréal_). 06/2022 - 09/2022 (co-supervised with Vladimir Reinharz)
     - Floriane Paris (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
+    - Haotian Xe (M.Sc, _King's College London_), 07/22-08/22 (co-supervised with Steffen Zschaler)
 
 
 ### Graduated Ph.D. Students
@@ -70,10 +69,16 @@ I am always interested in having motivated students join the lab to work on exci
     - Position: Developer, Avento AS (Norway).
 
 
+### Graduated M.Eng. students
 
+  - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022)
+    - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
+    - Position: Software Developer
 
 ### Former Research Interns (2016-...)
 
+- 2022:
+  - Normand Lancelot, B.Sc. internship. Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models. (co-supervised with Marie-Jean Meurs)
 - 2021:
   - Kevin Moriceau, M.Eng. internship. Collecting text messages from user’s phone while respecting privacy.
   - Rupanshu Soi, B.Sc. internship. Exploration of compiler infrastructure (MITACS Globalink)
