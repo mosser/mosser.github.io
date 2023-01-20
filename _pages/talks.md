@@ -50,6 +50,7 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Invited Lectures
 
+- _Software Visualization for Architecture Recovery_. M.Sc. in Software Engineering - Software Maintenance guest lecture, Université Côte d'Azur, France. Dec. 2022.
 - _A large-Scale study of Programming Language and Code Quality in Github_. M.Sc. in Software Engineering - Software Maintenance guest lecture, Université Côte d'Azur, France. Jan. 2022.
 - _RELAI: Where DevOps meets Mental (e-)Health_. M.Sc. in Software Engineering - Cloud Computing guest lecture, Université Côte d'Azur, France. Oct. 2021.
 - _Building JUnit: a Software design case study_. Master ICE guest lecture, University of Toulouse, France. May 2021. 

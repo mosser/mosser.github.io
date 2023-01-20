@@ -11,24 +11,20 @@ I am always interested in having motivated students join the lab to work on exci
 
 ### Current Students
 
-  - Alexandre Lachance (B.Sc., _Université du Québec à Montréal_). 01/2022-...
-    - Co-supervised with Camille Alloing (UQAM) and Julien Pierre (Audencia).
+  - Alexandre Lachance (M.A.Sc, McMaster). 01/2023-...
   - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
     - Co-supervised with Sylvie Trudel (UQAM)
-  - Azam Mahdipour (M.Eng., _McMaster University_). 09/2022-...
-  - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021-...
+  - Azam Mahdipour (M.Eng., _McMaster University_). 01/2023 - ...
+  - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
     - Co-supervised with Francis Bordeleau (ETS)
   - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
-  - Amine Soufyani (M.Eng., _Université du Québec à Montréal_). 09/2021-...
   - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
   - Summer Interns:
-    - Sathurshan Arulmohan (B.Eng., _McMaster University_). 05/2022 - 09/2022 (Dean's Excellence award)
-    - Richard Li (B.Eng., _McMaster University_). 05/2022 - 09/2022 (NSERC USRA)
-    - Alexandre Niney (B.Sc., _Université du Québec à Montréal_). 06/2022 - 09/2022 (co-supervised with Vladimir Reinharz)
-    - Floriane Paris (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
-    - Haotian Xe (M.Sc, _King's College London_), 07/22-08/22 (co-supervised with Steffen Zschaler)
-
-
+    - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excelleence award.
+    - Madhur Jain (B.Sc., _	Indian Institute of Technology Bhilai_). 05/2023 - 08/2023. Mitacs Globalink
+    - Jonah Alle Monne (M.A.Sc, _Université Grenoble Alpes_). 05/2023 - 08/2023. Mitacs Globalink
+    - Nitish Kumar (B.Sc., _	Indian Institute of Technology Kharagpur_). 05/2023 - 08/2023. Mitacs Globalink
+    
 ### Graduated Ph.D. Students
 
   -	**Sébastien Bonnieux**, Ph.D. in Earth and Universe Sciences. _Float for multidisciplinary monitoring of the marine environment. From business expertise to embedded codes_ (2017 - 2020) [[PDF]](https://tel.archives-ouvertes.fr/tel-03197915?lang=en)
@@ -73,11 +69,19 @@ I am always interested in having motivated students join the lab to work on exci
 
   - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022)
     - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
-    - Position: Software Developer
+    - Position: Software Developer, ETS Montréal
+  - **Amine Soufyani** (2021 - 2022)
+    - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
+    - Position: Software Developer, Australia
 
 ### Former Research Interns (2016-...)
 
 - 2022:
+  - Sathurshan Arulmohan (B.Eng., _McMaster University_). 05/2022 - 09/2022 (Dean's Excellence award)
+  - Richard Li (B.Eng., _McMaster University_). 05/2022 - 09/2022 (NSERC USRA)
+  - Alexandre Niney (B.Sc., _Université du Québec à Montréal_). 06/2022 - 09/2022 (co-supervised with Vladimir Reinharz)
+  - Floriane Paris (M.Eng internship, _Université Côte d'Azur_), 05/2022 - 09/2022
+  - Haotian Xe (M.Sc, _King's College London_), 07/22-08/22 (co-supervised with Steffen Zschaler)
   - Normand Lancelot, B.Sc. internship. Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models. (co-supervised with Marie-Jean Meurs)
 - 2021:
   - Kevin Moriceau, M.Eng. internship. Collecting text messages from user’s phone while respecting privacy.
