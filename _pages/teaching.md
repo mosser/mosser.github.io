@@ -4,17 +4,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Courses offered at McMaster University (2022 - ...)
+### Courses currently offered at McMaster University (2022 - ...)
 
   - Software Design I - Introduction to Software Development
     - Description: [SFWRENG 2AA4](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=228791) (Undergrad - Level II, mandatory, 4 units)
-    - Sessions: Winter 2023
-  - Software Engineering Practice and Experience: Binding Theory to Practice
-    - Description: [SFWRENG 3XB3](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=230536) (Undergrad - Level III, mandatory, 3 units)
-    - Sessions: Fall 2022
+    - Sessions: Winter 2024, Winter 2023 (165 students)
+  - Software Requirements and Security Considerations (Undergrad - Level III, mandatory for SE, 3 units)
+    - Description: [SFWRENG 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=241338&)/[COMPSCI 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=240350) 
+    - Session: Fall 2023 (expected: 250 students)
   - (Micro-)Service Oriented Architectures
     - Description: [CAS 735](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=46&coid=243261&) (Graduate, elective, 3 units)
-    - Sessions: Fall 2022
+    - Sessions: Fall 2022 (20 students)
+
+### Courses previously offered at McMaster
+
+  - Software Engineering Practice and Experience: Binding Theory to Practice
+    - Description: [SFWRENG 3XB3](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=230536) (Undergrad - Level III, mandatory, 3 units)
+    - Sessions: Fall 2022 (121 students)
+
 
 ### Courses offered at Université du Québec à Montréal (2019 - 2021)
 
