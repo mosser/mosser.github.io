@@ -14,16 +14,24 @@ I am always interested in having motivated students join the lab to work on exci
   - Alexandre Lachance (M.A.Sc, McMaster). 01/2023-...
   - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
     - Co-supervised with Sylvie Trudel (UQAM)
+  - Jason Lyu (M.Eng., _McMaster University_). 09/2023 - ...
   - Azam Mahdipour (M.Eng., _McMaster University_). 01/2023 - ...
   - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
     - Co-supervised with Francis Bordeleau (ETS)
   - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
+  - Arman Samiei (M.A.Sc, _McMaster University_). 09/2023 - ...
   - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
   - Summer Interns:
-    - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excelleence award.
-    - Madhur Jain (B.Sc., _	Indian Institute of Technology Bhilai_). 05/2023 - 08/2023. Mitacs Globalink
-    - Jonah Alle Monne (M.A.Sc, _Université Grenoble Alpes_). 05/2023 - 08/2023. Mitacs Globalink
-    - Nitish Kumar (B.Sc., _	Indian Institute of Technology Kharagpur_). 05/2023 - 08/2023. Mitacs Globalink
+    - Jonah Alle Monne (M.A.Sc, _Université Grenoble Alpes_). 05/2023 - 08/2023. Mitacs Globalink award
+    - Maël Charpentier (B.Sc., _Université de Montréal_). 05/2023 - 08/2023.
+    - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. NSERC USRA award 
+    - Ahmed Elzaria (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excellence in research award (EREA).
+    - Dennis Fong (B.Eng., _McMaster University_). 05/2023 - 08/2023.
+    - Noel Chungath Gregory (B.Eng., _McMaster University_). 05/2023 - 08/2023.
+    - Madhur Jain (B.Sc., _Indian Institute of Technology Bhilai_). 05/2023 - 08/2023. Mitacs Globalink award
+    - Nitish Kumar (B.Sc., _Indian Institute of Technology Kharagpur_). 05/2023 - 08/2023. Mitacs Globalink award
+    - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excellence in research award (EREA).
+    
     
 ### Graduated Ph.D. Students
 
