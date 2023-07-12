@@ -9,8 +9,6 @@ redirect_from:
 comment:
 ---
 
-
-
 I've joined McMaster University and its Faculty of Engineering as an Associate Professor of Software Engineering in the [Department of Computing and Software](https://www.eng.mcmaster.ca/cas) (CAS) and a member of [McMaster Centre for Software Certification](https://www.mcscert.ca/) (McSCert). I am also a licensed engineer (PEng) in Ontario. When working from home, lectures or Zoom calls might be interrupted anytime because cats would play with the webcam wires. I am also quite good at breaking software and information systems. And if we ever have to travel together, be prepared for flight cancellations.
 
 My research interests are related to software engineering, and more specifically, scalable software composition, domain-specific languages and modelling. In addition, I apply my research to various domains such as cloud computing, cyber-physical systems, and, more recently, source code and micro-services architecture. My research has been conducted closely with industrial partners and has led to several technological transfers.

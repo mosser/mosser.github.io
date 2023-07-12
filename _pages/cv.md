@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 You can find an extended version of my CV using McMaster official template as a [PDF file](../files/CV.pdf).
 
 ### Work experience
