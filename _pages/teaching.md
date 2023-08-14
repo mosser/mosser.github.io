@@ -14,7 +14,7 @@ author_profile: true
     - Session: Fall 2023 (expected: 250 students)
   - (Micro-)Service Oriented Architectures
     - Description: [CAS 735](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=46&coid=243261&) (Graduate, elective, 3 units)
-    - Sessions: Fall 2022 (20 students)
+    - Sessions: Fall 2023 (expected: 20 students), Fall 2022 (20 students)
 
 ### Courses previously offered at McMaster
 

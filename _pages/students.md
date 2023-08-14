@@ -11,6 +11,7 @@ I am always interested in having motivated students join the lab to work on exci
 
 ### Current Students
 
+  - Stepan Bryantsev (MAsc, McMaster). 09/2023-...
   - Alexandre Lachance (M.A.Sc, McMaster). 01/2023-...
   - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
     - Co-supervised with Sylvie Trudel (UQAM)
@@ -22,16 +23,19 @@ I am always interested in having motivated students join the lab to work on exci
   - Arman Samiei (M.A.Sc, _McMaster University_). 09/2023 - ...
   - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
   - Summer Interns:
-    - Jonah Alle Monne (M.A.Sc, _Université Grenoble Alpes_). 05/2023 - 08/2023. Mitacs Globalink award
     - Maël Charpentier (B.Sc., _Université de Montréal_). 05/2023 - 08/2023.
     - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. NSERC USRA award 
     - Ahmed Elzaria (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excellence in research award (EREA).
     - Dennis Fong (B.Eng., _McMaster University_). 05/2023 - 08/2023.
     - Noel Chungath Gregory (B.Eng., _McMaster University_). 05/2023 - 08/2023.
-    - Madhur Jain (B.Sc., _Indian Institute of Technology Bhilai_). 05/2023 - 08/2023. Mitacs Globalink award
-    - Nitish Kumar (B.Sc., _Indian Institute of Technology Kharagpur_). 05/2023 - 08/2023. Mitacs Globalink award
     - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excellence in research award (EREA).
-    
+
+### Research Assistants
+
+  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - ... 
+  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - ...
+
+
     
 ### Graduated Ph.D. Students
 
@@ -84,6 +88,11 @@ I am always interested in having motivated students join the lab to work on exci
 
 ### Former Research Interns (2016-...)
 
+- 2023:
+  - Julia Brzustowski, BSc internship, McMaster. Probes to extract information from legacy software. (co- supervised with Vera Pantelic)
+  - Jonah Alle Monne (M.A.Sc, _Université Grenoble Alpes_). 05/2023 - 08/2023. Mitacs Globalink award
+  - Madhur Jain (B.Sc., _Indian Institute of Technology Bhilai_). 05/2023 - 08/2023. Mitacs Globalink award
+  - Nitish Kumar (B.Sc., _Indian Institute of Technology Kharagpur_). 05/2023 - 08/2023. Mitacs Globalink award
 - 2022:
   - Sathurshan Arulmohan (B.Eng., _McMaster University_). 05/2022 - 09/2022 (Dean's Excellence award)
   - Richard Li (B.Eng., _McMaster University_). 05/2022 - 09/2022 (NSERC USRA)
