@@ -4,39 +4,38 @@ permalink: /students/
 author_profile: true
 ---
 
+<html>
+<div align="center">
+  <b>⛔️ I only have PhD and MEng position(s) opened for 2024-2025 ⛔️</b>
+</div>
+</html>
+
 ### Join the team!
 
 I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student), mentioning which recent research work I've conducted excites you the most. 
 
+If you're interested in Software Engineering, Safety, Certification from the lens of model-driven engineering, you should also have a look at [McSCert recruiting page](https://www.mcscert.ca/recruiting/), where we list all the opportunities (postdoctoral, doctoral and master students) available at the lab level.
+
 
 ### Current Students
 
-  - Stepan Bryantsev (MAsc, McMaster). 09/2023-...
-  - Alexandre Lachance (M.A.Sc, McMaster). 01/2023-...
+  - Stepan Bryantsev (M.A.Sc, _McMaster University_). 09/2023-...
+  - Alexandre Lachance (M.A.Sc, _McMaster University_). 01/2023-...
   - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
     - Co-supervised with Sylvie Trudel (UQAM)
   - Jason Lyu (M.Eng., _McMaster University_). 09/2023 - ...
-  - Azam Mahdipour (M.Eng., _McMaster University_). 01/2023 - ...
+  - Mina (Azam) Mahdipour (M.A.Sc., _McMaster University_). 01/2023 - ...
   - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
     - Co-supervised with Francis Bordeleau (ETS)
   - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
-  - Arman Samiei (M.A.Sc, _McMaster University_). 09/2023 - ...
+  - Arman Samiei (M.A.Sc, _McMaster University_). 01/2024 - ...
   - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
-  - Summer Interns:
-    - Maël Charpentier (B.Sc., _Université de Montréal_). 05/2023 - 08/2023.
-    - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. NSERC USRA award 
-    - Ahmed Elzaria (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excellence in research award (EREA).
-    - Dennis Fong (B.Eng., _McMaster University_). 05/2023 - 08/2023.
-    - Noel Chungath Gregory (B.Eng., _McMaster University_). 05/2023 - 08/2023.
-    - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. Dean's excellence in research award (EREA).
-
+    
 ### Research Assistants
 
   - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - ... 
   - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - ...
 
-
-    
 ### Graduated Ph.D. Students
 
   -	**Sébastien Bonnieux**, Ph.D. in Earth and Universe Sciences. _Float for multidisciplinary monitoring of the marine environment. From business expertise to embedded codes_ (2017 - 2020) [[PDF]](https://tel.archives-ouvertes.fr/tel-03197915?lang=en)
@@ -89,6 +88,12 @@ I am always interested in having motivated students join the lab to work on exci
 ### Former Research Interns (2016-...)
 
 - 2023:
+  - Maël Charpentier (B.Sc., _Université de Montréal_). _An LSP server for the P4 language_ 05/2023 - 08/2023.
+  - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Imnproving Git Merge algorithms_ NSERC USRA award 
+  - Ahmed Elzaria (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Charting the LLVM compiler_ Dean's excellence in research award (EREA).
+  - Dennis Fong (B.Eng., _McMaster University_). _analysing how SAT can be iused in the Spack package manager_ 05/2023 - 08/2023.
+  - Noel Chungath Gregory (B.Eng., _McMaster University_). _An LSP server for the P4 language_ 05/2023 - 08/2023.
+  - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Contributions to the jPipe environment_. Dean's excellence in research award (EREA).
   - Julia Brzustowski, BSc internship, McMaster. Probes to extract information from legacy software. (co- supervised with Vera Pantelic)
   - Jonah Alle Monne (M.A.Sc, _Université Grenoble Alpes_). 05/2023 - 08/2023. Mitacs Globalink award
   - Madhur Jain (B.Sc., _Indian Institute of Technology Bhilai_). 05/2023 - 08/2023. Mitacs Globalink award

@@ -24,6 +24,7 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Invited Talks
 
+-  _Developing a modular language server to support P4 developers_. P4.org open source developer days. ([recording](https://drive.google.com/drive/folders/1O90jj2SroWX4Du42hItbXh7gTByZHPuj))
 - _Dockerizing your Teaching: Do's and Don'ts_. The MDE Network, Mar. 2022
 - _Software Composition in a Cyber-Physical World_. Canada-Norway collaboration, Østfold College, Mar 2022.
 - _Génie Logiciel pour la Population Vieillissante_. La France à l'UQAM, Feb. 2022.
