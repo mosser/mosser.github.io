@@ -78,10 +78,10 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Graduated M.Eng. students
 
-  - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022)
+  - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022) [[PDF]](../files/students/koita22.pdf)
     - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
     - Position: Software Developer, ETS Montréal
-  - **Amine Soufyani** (2021 - 2022)
+  - **Amine Soufyani** (2021 - 2022) [[PDF]](../files/students/soufyani22.pdf)
     - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
     - Position: Software Developer, Australia
 
