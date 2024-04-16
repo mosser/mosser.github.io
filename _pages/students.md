@@ -4,37 +4,43 @@ permalink: /students/
 author_profile: true
 ---
 
-<html>
-<div align="center">
-  <b>⛔️ I only have PhD and MEng position(s) opened for 2024-2025 ⛔️</b>
-</div>
-</html>
-
 ### Join the team!
 
-I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student), mentioning which recent research work I've conducted excites you the most. 
+I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student).
 
 If you're interested in Software Engineering, Safety, Certification from the lens of model-driven engineering, you should also have a look at [McSCert recruiting page](https://www.mcscert.ca/recruiting/), where we list all the opportunities (postdoctoral, doctoral and master students) available at the lab level.
 
+### Open Positions (2024-2025)
+
+  - PhD in Software Engineering (open topics)
+  - M.Eng. in software engineering (microservices, justification models)
+  - Bachelor research assistantships (language server)
+
+**Please do not send a generic email stating that my expertise in AI and Machine Learning (which I don't have by the way) will be beneficial for your thesis project. Also, please do not apply for positions that I don't have (e.g., if this webpage states that I don't have any MSc position opened, there is no need to apply for such a position with me as a supervisor.)**
 
 ### Current Students
 
+  - Cass Braun (B.Eng USRA internship, _McMaster University_). 05/2024 - 08/2024
   - Stepan Bryantsev (M.A.Sc, _McMaster University_). 09/2023-...
+  - Ahmed Elzaria (B.Eng internship, _McMaster University_). 05/2024 - 08/2024
+    - Co-supervised with Marie-Jean Meurs (UQAM)
   - Alexandre Lachance (M.A.Sc, _McMaster University_). 01/2023-...
   - Alexandra Lapointe-Boisvert (Ph.D., _Université du Québec à Montréal_). 01/2021-...
     - Co-supervised with Sylvie Trudel (UQAM)
   - Jason Lyu (M.Eng., _McMaster University_). 09/2023 - ...
   - Mina (Azam) Mahdipour (M.A.Sc., _McMaster University_). 01/2023 - ...
+    - Co-supervised with Vera Pantelic (McMaster)
   - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
     - Co-supervised with Francis Bordeleau (ETS)
-  - Deesha Patel (M.Eng., _McMaster University_). 09/2022-...
   - Arman Samiei (M.A.Sc, _McMaster University_). 01/2024 - ...
-  - Kai Sun (M.Eng., _McMaster University_). 09/2022-...
+  - Roozbeh Sharifnasab (PhD, _McMaster University_). 09/2024 - ...
+  - Carlos Zegarra (PhD, _McMaster University_). 09/2024 - ... 
+  - Zitao Zhu (M.Eng., _McMaster University_). 09/2024 - ...
     
 ### Research Assistants
 
-  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - ... 
-  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - ...
+  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 04/2024
+  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 12/2023
 
 ### Graduated Ph.D. Students
 
@@ -78,12 +84,23 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Graduated M.Eng. students
 
-  - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022) [[PDF]](../files/students/koita22.pdf)
-    - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
-    - Position: Software Developer, ETS Montréal
-  - **Amine Soufyani** (2021 - 2022) [[PDF]](../files/students/soufyani22.pdf)
-    - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
-    - Position: Software Developer, Australia
+  - 2024:
+    - **Kai Sun** (09/2022 - 02/2024) [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/29641/2/Meng_Report_KaiSun_2024.03.pdf)
+      - _Master of Engineering_, _McMaster University_.
+      - Title: _A STUDY OF JUSTIFICATION ON JUPYTER NOTEBOOK QUALITY & FAIRNESS_
+      - Position:
+  - 2023:
+    - **Deesha Patel** (09/2022 - 12/2023) [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/29326/1/patel_deesha_meng.pdf)
+      - _Master of Engineering_, _McMaster University_.
+      - Title: _A STUDY ON JUSTIFYING PLATFORM-INDEPENDENT CI/CD PIPELINES_
+      - Position: Junior DevOps engineering, Pixomondo.
+  - 2022:
+    - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022) [[PDF]](../files/students/koita22.pdf)
+      - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
+      - Position: Software Developer, ETS Montréal
+    - **Amine Soufyani** (2021 - 2022) [[PDF]](../files/students/soufyani22.pdf)
+      - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
+      - Position: Software Developer, Australia
 
 ### Former Research Interns (2016-...)
 
