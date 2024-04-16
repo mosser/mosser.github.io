@@ -8,7 +8,7 @@ author_profile: true
 
 I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student).
 
-If you're interested in Software Engineering, Safety, Certification from the lens of model-driven engineering, you should also have a look at [McSCert recruiting page](https://www.mcscert.ca/recruiting/), where we list all the opportunities (postdoctoral, doctoral and master students) available at the lab level.
+If you're interested in Software Engineering, Safety, Certification from the lens of model-driven engineering, you should also have a look at [McSCert recruiting page](https://mcscert.mcmaster.ca/research/recruiting/), where we list all the opportunities (postdoctoral, doctoral and master students) available at the lab level.
 
 ### Open Positions (2024-2025)
 
