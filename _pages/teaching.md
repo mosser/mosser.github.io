@@ -6,18 +6,18 @@ author_profile: true
 
 ### Courses currently offered at McMaster University (2022 - ...)
 
-  - Software Design I - Introduction to Software Development
-    - Description: [SFWRENG 2AA4](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=228791) (Undergrad - Level II, mandatory, 4 units)
-    - Sessions: Winter 2024, Winter 2023 (165 students)
   - Software Requirements and Security Considerations (Undergrad - Level III, mandatory for SE, 3 units)
     - Description: [SFWRENG 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=241338&)/[COMPSCI 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=240350) 
-    - Session: Fall 2023 (211 students)
+    - Session: Fall 2025 (300? students), Fall 2024 (202 students), Fall 2023 (211 students)
   - (Micro-)Service Oriented Architectures
     - Description: [CAS 735](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=46&coid=243261&) (Graduate, elective, 3 units)
-    - Sessions: Fall 2023 (21 students), Fall 2022 (20 students)
+    - Sessions: Fall 2025 (25? students), Fall 2024 (21 students), Fall 2023 (21 students), Fall 2022 (20 students)
 
 ### Courses previously offered at McMaster
 
+  - Software Design I - Introduction to Software Development
+    - Description: [SFWRENG 2AA4](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=228791) (Undergrad - Level II, mandatory, 4 units)
+    - Sessions: Winter 2024 (155 students), Winter 2023 (165 students)
   - Software Engineering Practice and Experience: Binding Theory to Practice
     - Description: [SFWRENG 3XB3](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=44&coid=230536) (Undergrad - Level III, mandatory, 3 units)
     - Sessions: Fall 2022 (121 students)
