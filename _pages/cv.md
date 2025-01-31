@@ -9,8 +9,9 @@ redirect_from:
 You can find an extended version of my CV using McMaster official template as a [PDF file](../files/CV.pdf).
 
 ### Work experience
-* 2022 - ...: Associate Professor of Software Engineering 
-  * McMaster University, Canada
+* 2022 - ...: Associate Professor of Software Engineering, McMaster University, Canada
+  * Associate Chair, Department of Computing and Software (07/24 - ...)
+  * Associate Director, McMaster Centre or Software Certification (12/24 - ...)
 * 2019 - 2021 : _Professeur (cat III)_ of Software Engineering 
   * Université du Québec à Montréal (UQAM), Canada
 * 2012 - 2018: _Maître de Conférences_ of Computer Science
@@ -34,6 +35,8 @@ You can find an extended version of my CV using McMaster official template as a 
 
 ### Awards
 
+* 2024: Best reviewer award
+  * _ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS)_
 * 2021: Best reviewer award
   * _ACM/IEEE 24th International Conference on Model Driven Engineering Languages and Systems (MODELS)_
 * 2018: Best paper award
@@ -42,5 +45,6 @@ You can find an extended version of my CV using McMaster official template as a 
 
 ### Professional Organizations
 
-* _Ordre des Ingénieurs du Québec_ (OIQ): licensed engineer (PEng)
+* _Professional Engineer Ontario_ (PEO): licensed engineer (PEng)
 * _Société Informatique de France_ (SIF): member
+* _Association for Computer Machinery_ (ACM): member

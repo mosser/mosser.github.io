@@ -16,6 +16,9 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Tutorials
 
+- _Modelling Justification Diagrams using jPipe_. In ACM / IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS 2024). Linz, Austria.
+  - [https://github.com/ace-design/jpipe-tutorial-models24](https://github.com/ace-design/jpipe-tutorial-models24)
+- _Modern Teaching of Requirements Engineering and Business Analysis_. Sébastien Mosser, and Jean-Michel Bruel. In 32nd IEEE International Requirements Engineering 2024 conference, Reijkavik, Iceland.
 - _Requirements Engineering in the DevOps Era_. Sébastien Mosser, and Jean-Michel Bruel. In 29th IEEE International Requirements Engineering Conference, RE 2021, Notre Dame, IN, USA, September 20-24, 2021 IEEE.
   - [https://github.com/ace-lectures/re21-devops](https://github.com/ace-lectures/re21-devops/blob/main/README.md)
 - _Reconciling Requirements and Continuous Integration in an Agile Context_. Sébastien Mosser, and Jean-Michel Bruel. In 26th IEEE International Requirements Engineering Conference, RE 2018, Banff, AB, Canada, August 20-24, 2018 IEEE Computer Society.
@@ -23,8 +26,11 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 
 ### Invited Talks
-
--  _Developing a modular language server to support P4 developers_. P4.org open source developer days. ([recording](https://drive.google.com/drive/folders/1O90jj2SroWX4Du42hItbXh7gTByZHPuj))
+- _Software Engineering and Natural Language Processing: What Can Go Wrong?_ CRIM Seminars, Montreal, November 2024.
+- _Modelling justification diagrams using jPipe_ (with N. Chaudhari). The MDE Network, June. 2024
+- _From Zero to VS Code: A Framework Approach to Language Support_ (with A. Lachance). The MDE Network, October. 2023
+-  _Developing a modular language server to support P4 developers_. P4.org open source developer days. ([recording](https://drive.google.com/drive/folders/1O90jj2SroWX4Du42hItbXh7gTByZHPuj)), September 2023.
+- _Teaching Modelling, Modelling Teaching_. The MDE Network, Mar. 2023.
 - _Dockerizing your Teaching: Do's and Don'ts_. The MDE Network, Mar. 2022
 - _Software Composition in a Cyber-Physical World_. Canada-Norway collaboration, Østfold College, Mar 2022.
 - _Génie Logiciel pour la Population Vieillissante_. La France à l'UQAM, Feb. 2022.
@@ -51,6 +57,9 @@ I am regularly invited to talk about my research interests, as well as the way w
 
 ### Invited Lectures
 
+- _Lessons Learned from An Architecture Recovery Project_. M.Sc. in Software Engineering - Software Maintenance guest lecture, Université Côte d'Azur, France. Dec. 2024.
+- _From Zero to API Hero: Crafting the Perfect Product with Micro-Services_. Bachelor in Software Engineering, North Carolina State University, October 2024.
+- _Lessons Learned from An Architecture Recovery Project_. M.Sc. in Software Engineering - Software Maintenance guest lecture, Université Côte d'Azur, France. Dec. 2023.
 - _Software Visualization for Architecture Recovery_. M.Sc. in Software Engineering - Software Maintenance guest lecture, Université Côte d'Azur, France. Dec. 2022.
 - _A large-Scale study of Programming Language and Code Quality in Github_. M.Sc. in Software Engineering - Software Maintenance guest lecture, Université Côte d'Azur, France. Jan. 2022.
 - _RELAI: Where DevOps meets Mental (e-)Health_. M.Sc. in Software Engineering - Cloud Computing guest lecture, Université Côte d'Azur, France. Oct. 2021.

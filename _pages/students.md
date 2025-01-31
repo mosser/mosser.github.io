@@ -1,46 +1,59 @@
 ---
-title: "Students"
+title: "Team"
 permalink: /students/
 author_profile: true
 ---
 
 ### Join the team!
 
-I am always interested in having motivated students join the lab to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student).
+I am always interested in having motivated students join McScert to work on exciting projects. From a recruitment point of view, I am more interested in motivation and excitement than by excellence in your transcript (I was myself a terrible B.Sc. student). If you're interested in joining the lab as a undergrad engineering student, a graduate student or a postdoc, feel free to [drop me an introductory email](mailto:mossers@mcmaster.ca?subject=Prospective Student).
 
 If you're interested in Software Engineering, Safety, Certification from the lens of model-driven engineering, you should also have a look at [McSCert recruiting page](https://mcscert.mcmaster.ca/research/recruiting/), where we list all the opportunities (postdoctoral, doctoral and master students) available at the lab level.
 
 ### Open Positions (2024-2025)
 
-  - PhD in Software Engineering (open topics)
-  - M.Eng. in software engineering (microservices, justification models)
-  - Bachelor research assistantships (language server)
+  - PhD in Software Engineering (open topics related to software engineering)
+  - M.Eng. in software engineering (DevOps, Microservices)
 
-**Please do not send a generic email stating that my expertise in AI and Machine Learning (which I don't have by the way) will be beneficial for your thesis project. Also, please do not apply for positions that I don't have (e.g., if this webpage states that I don't have any MSc position opened, there is no need to apply for such a position with me as a supervisor.)**
+**Please do not apply for positions that I don't have, or send generic emails unrelated to my research interests. Actually, mentionning in your introduction email that you are a cat or a dog person (ar any other specific fun fact about you) will clearly indicate you have read this page, and your email will receive specific attention.**
 
 ### Current Students
 
-  - Cass Braun (B.Eng USRA internship, _McMaster University_). 05/2024 - 08/2024
-  - Stepan Bryantsev (M.A.Sc, _McMaster University_). 09/2023-...
-  - Ahmed Elzaria (B.Eng internship, _McMaster University_). 05/2024 - 08/2024
-    - Co-supervised with Marie-Jean Meurs (UQAM)
-  - Muhammad Waqar Ul Hassan Awan (M.Eng., _McMaster University_). 01/2024 - ...
-  - Alexandre Lachance (M.A.Sc, _McMaster University_). 01/2023-...
-  - Jason Lyu (M.Eng., _McMaster University_). 09/2023 - ...
-  - Mina (Azam) Mahdipour (M.A.Sc., _McMaster University_). 01/2023 - ...
-    - Co-supervised with Vera Pantelic (McMaster)
-  - Corinne Pulgar (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
+#### Active
+
+  - [Waqar Awan](https://www.linkedin.com/in/waqarulhassanawan/) (M.Eng., _McMaster University_). 01/2024 - ...
+  - [Stepan Bryantsev](https://www.linkedin.com/in/stepan-bryantsev/) (M.A.Sc, _McMaster University_). 09/2023-...
+  - Sihui He (M.Eng., _McMaster University_). 09/2025 - ...
+  - [Kalvin Khuu](https://www.linkedin.com/in/kalvin-khuu/) (M.Eng., _McMaster University_). 09/2024 - ...
+  - [Nicolas Lacroix](https://www.linkedin.com/in/nicolas--lacroix/) (Ph.D., _Université Côte d'Azur_). 09/2024 - ...
+    - co-supervised with Mireille Blay-Fornarino and Frédéric Precioso
+  - [Jason Lyu](https://www.linkedin.com/in/zhexuan-lyu/) (M.Eng., _McMaster University_). 09/2023 - ...
+  - [Shyam Ravichandran](https://www.linkedin.com/in/shyam-ravichandran/) (Ph.D., _McMaster University_). 01/2025 - ...
+  - [Arman Samiei](https://www.linkedin.com/in/arman-samiei-20ba07324/) (M.A.Sc, _McMaster University_). 01/2024 - ...
+  - [Nidhal Selmi](https://www.linkedin.com/in/nidhal-selmi-263892128/) (Ph.D., _Université Toulouse Jean-Jaurès_). 09/2024 - ...
+  - [Roozbeh Sharifnasab](https://www.linkedin.com/in/rsharifnasab/) (PhD, _McMaster University_). 09/2025 - ...
+  - [Houston Zhang](https://www.linkedin.com/in/houston-zhang/) (M.Eng., _McMaster University_). 01/2025 - ...
+  - [Carlos Zegarra](https://www.linkedin.com/in/cgzegarra/) (PhD, _McMaster University_). 09/2024 - ...
+
+#### On Leave
+  - [Corinne Pulgar](https://www.linkedin.com/in/corinne-pulgar-12a58190/) (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
     - Co-supervised with Francis Bordeleau (ETS)
-  - Kalvin Khuu (M.Eng., _McMaster University_). 09/2024 - ...
-  - Arman Samiei (M.A.Sc, _McMaster University_). 01/2024 - ...
-  - Roozbeh Sharifnasab (PhD, _McMaster University_). 09/2024 - ...
-  - Carlos Zegarra (PhD, _McMaster University_). 09/2024 - ... 
-  - Zitao Zhu (M.Eng., _McMaster University_). 09/2024 - ...
-    
+    - Current position: SecOps Cloud Specialist (full time) at Desjardins Bank 
+  - [Mina (Azam) Mahdipour](https://www.linkedin.com/in/mina-mahdipour/) (M.A.Sc., _McMaster University_). 01/2023 - ...
+    - Co-supervised with Vera Pantelic (McMaster)
+    - Current position: Software Infrastructure Developer (co-op intern) at Christie Digital Systems
+
+### Postdoctoral Researchers
+
+  - [Horacio Hoyos Rodriguez](https://www.linkedin.com/in/horaciohoyosr/). Post-Doctoral Fellowship. 09/2024 - 09/2026
+
+
 ### Research Assistants
 
-  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 04/2024
-  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 12/2023
+  - [Cass Braun](https://www.linkedin.com/in/cass-braun/), Research Assistant III, 09/24 - 04/25
+  - [Baptiste Lacroix](https://www.linkedin.com/in/lacroix-baptiste/), Research Assistant II, 06/25 - 08/25
+  - [Darshan Shah](https://www.linkedin.com/in/darshan-shah2), Research Assistant I, 05/25 - 08/25
+
 
 ### Graduated Ph.D. Students
 
@@ -63,8 +76,14 @@ If you're interested in Software Engineering, Safety, Certification from the len
     - Co-supervised with Laurence Duchien. 
 
 
-### Graduated M.Sc. Students
+### Graduated M.Sc./M.A.Sc. Students
 
+  - **Alexandre Lachance**, _LEVER: A FRAMEWORK FOR DSL EDITOR SUPPORT_.
+    - M.A.Sc. in Software Engineering (2023 - 2024).
+    - Position: 
+  - **Hunter Zaker**, _A Semi-Automated Approach for Incremental Migration from Monolithic to Microservices Architecture_ ([PDF](http://hdl.handle.net/11375/30255))
+    - M.A.Sc. in Software Engineering (2023 - 2024).
+    - Position: 
   - **Günther Jungblunth**, Developing scalable data-processing pipelines
     - M.Sc. in Software Engineering (2017 - 2018).
     - Position: CTO, GameLabs (France).
@@ -102,8 +121,15 @@ If you're interested in Software Engineering, Safety, Certification from the len
       - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
       - Position: Software Developer, Australia
 
-### Former Research Interns (2016-...)
+### Former Research Assistants (2022-...)
 
+  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 04/2024
+  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 12/2023
+
+### Former Research Interns (2016-...)
+- 2024:
+  - Ahmed Elzaria (B.Eng, _McMaster University_). 05/2024 - 08/2024. _Justifying the development of a mental health ournalling application_.(Co-supervised with Marie-Jean Meurs, UQAM)
+  - Cass Braun (B.Eng, _McMaster University_). 05/2024 - 08/2024. _Developement of a langauge server for the jPipe language_ (NSERC USRA)
 - 2023:
   - Maël Charpentier (B.Sc., _Université de Montréal_). _An LSP server for the P4 language_ 05/2023 - 08/2023.
   - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Imnproving Git Merge algorithms_ NSERC USRA award 
