@@ -52,8 +52,8 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Research Assistants
 
-  - [Cass Braun](https://www.linkedin.com/in/cass-braun/), Research Assistant III, 09/24 - 04/25
-  - [Baptiste Lacroix](https://www.linkedin.com/in/lacroix-baptiste/), Research Assistant II, 06/25 - 08/25
+  - [Cass Braun](https://www.linkedin.com/in/cass-braun/), Research Assistant II, 09/24 - 04/25
+  - [Baptiste Lacroix](https://www.linkedin.com/in/lacroix-baptiste/), Research Assistant III, 06/25 - 08/25
   - [Darshan Shah](https://www.linkedin.com/in/darshan-shah2), Research Assistant I, 05/25 - 08/25
 
 
@@ -82,25 +82,25 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
   - **Alexandre Lachance**, _LEVER: A FRAMEWORK FOR DSL EDITOR SUPPORT_.
     - M.A.Sc. in Software Engineering (2023 - 2024).
-    - Position: 
+    - Position: Software Engineer, SG NDT
   - **Hunter Zaker**, _A Semi-Automated Approach for Incremental Migration from Monolithic to Microservices Architecture_ ([PDF](http://hdl.handle.net/11375/30255))
     - M.A.Sc. in Software Engineering (2023 - 2024).
-    - Position: 
+    - Position: Software Engineer, EQ Bank
   - **Günther Jungblunth**, Developing scalable data-processing pipelines
     - M.Sc. in Software Engineering (2017 - 2018).
     - Position: CTO, GameLabs (France).
   - **Benjamin Benni**, A language-driven approach for model composition
     - M.Sc. in Software Engineering (2015 - 2016)
-    - Position: Ph.D. student in the group
+    - Position: continued as Ph.D. student in the group
   - **Cyril Cecchinel**, Code generation applied to sensor networks
     - M.Sc. in Software Engineering (2013 - 2014)
-    - Position:  Ph.D. student in the group
+    - Position: continued as Ph.D. student in the group
   - **Ivan Logre**, User-centered dashboards for data collected by large-scale sensor networks
     - M.Sc. in Software Engineering (2012 - 2013)
-    - Position: Ph.D. student in the group
+    - Position: continued as Ph.D. student in the group
   - **Eirik Brandtzæg**, CloudML : A DSL for model-based realization of applications in the cloud [[PDF]](https://www.duo.uio.no/handle/10852/34894?locale-attribute=en)
     - M.Sc. in Computer Science (2011-2012) 
-    - Position: Developer, Avento AS (Norway).
+    - Position: Developer, Softweria (Norway).
 
 
 ### Graduated M.Eng. students
@@ -109,7 +109,7 @@ If you're interested in Software Engineering, Safety, Certification from the len
     - **Kai Sun** (09/2022 - 02/2024) [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/29641/2/Meng_Report_KaiSun_2024.03.pdf)
       - _Master of Engineering_, _McMaster University_.
       - Title: _A STUDY OF JUSTIFICATION ON JUPYTER NOTEBOOK QUALITY & FAIRNESS_
-      - Position:
+      - Position: Software Developer, RobinHood
   - 2023:
     - **Deesha Patel** (09/2022 - 12/2023) [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/29326/1/patel_deesha_meng.pdf)
       - _Master of Engineering_, _McMaster University_.
@@ -118,15 +118,16 @@ If you're interested in Software Engineering, Safety, Certification from the len
   - 2022:
     - **Mohamed Dramane Jean-Philippe Koïta** (2021-2022) [[PDF]](../files/students/koita22.pdf)
       - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
-      - Position: Software Developer, ETS Montréal
+      - Position: Software Developer, 8P Design
     - **Amine Soufyani** (2021 - 2022) [[PDF]](../files/students/soufyani22.pdf)
       - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
-      - Position: Software Developer, Australia
+      - Position: Full stack Engineer, Wrkr (Australia)
 
 ### Former Research Assistants (2022-...)
 
-  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 04/2024
-  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant III, 09/2023 - 12/2023
+  - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant II, 09/2023 - 04/2024
+  - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant II, 09/2023 - 12/2023
+  - Ahmed Elzaria (B.Eng., _McMaster University_). Research Assistant II, 09/2024 - 12/2024
 
 ### Former Research Interns (2016-...)
 - 2024:
