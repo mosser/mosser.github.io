@@ -10,10 +10,11 @@ I am always interested in having motivated students join McScert to work on exci
 
 If you're interested in Software Engineering, Safety, Certification from the lens of model-driven engineering, you should also have a look at [McSCert recruiting page](https://mcscert.mcmaster.ca/research/recruiting/), where we list all the opportunities (postdoctoral, doctoral and master students) available at the lab level.
 
-### Open Positions (2024-2025)
+### Open Positions (2026)
 
   - PhD in Software Engineering (open topics related to software engineering)
-  - M.Eng. in software engineering (DevOps, Microservices)
+  - M.Eng. in software engineering (DevOps, MLops)
+  - Undergraduate summer internships (open topics related to McSCert's projects)
 
 **Please do not apply for positions that I don't have, or send generic emails unrelated to my research interests. Actually, mentionning in your introduction email that you are a cat or a dog person (ar any other specific fun fact about you) will clearly indicate you have read this page, and your email will receive specific attention.**
 
@@ -21,29 +22,27 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 #### Active
 
-  - [Waqar Awan](https://www.linkedin.com/in/waqarulhassanawan/) (M.Eng., _McMaster University_). 01/2024 - ...
-  - [Stepan Bryantsev](https://www.linkedin.com/in/stepan-bryantsev/) (M.A.Sc, _McMaster University_). 09/2023-...
-  - Sihui He (M.Eng., _McMaster University_). 09/2025 - ...
-  - [Kalvin Khuu](https://www.linkedin.com/in/kalvin-khuu/) (M.Eng., _McMaster University_). 09/2024 - ...
+
+  - [Sihui He](https://www.linkedin.com/in/sihui-he-6429551b0/) (M.Eng., _McMaster University_). 01/2026 - ...
+  - [Kalvin Khuu](https://www.linkedin.com/in/kalvin-khuu/) (MASc., _McMaster University_). 09/2024 - ...
   - [Nicolas Lacroix](https://www.linkedin.com/in/nicolas--lacroix/) (Ph.D., _Université Côte d'Azur_). 09/2024 - ...
-    - co-supervised with Mireille Blay-Fornarino and Frédéric Precioso
-  - [Jason Lyu](https://www.linkedin.com/in/zhexuan-lyu/) (M.Eng., _McMaster University_). 09/2023 - ...
+    - co-supervised with Mireille Blay-Fornarino (UCA) and Frédéric Precioso (UCA)
+  - [Mina (Azam) Mahdipour](https://www.linkedin.com/in/mina-mahdipour/) (M.A.Sc., _McMaster University_). 01/2023 - ...
+    - Co-supervised with Vera Pantelic (McMaster)
   - [Shyam Ravichandran](https://www.linkedin.com/in/shyam-ravichandran/) (Ph.D., _McMaster University_). 01/2025 - ...
-    - Co-supervised with Denise Geiskkovitch
-  - [Arman Samiei](https://www.linkedin.com/in/arman-samiei-20ba07324/) (M.A.Sc, _McMaster University_). 01/2024 - ...
+    - Co-supervised with Denise Geiskkovitch (McMaster)
   - [Nidhal Selmi](https://www.linkedin.com/in/nidhal-selmi-263892128/) (Ph.D., _Université Toulouse Jean-Jaurès_). 09/2024 - ...
-    - Co-supervised with Jean-Michel Bruel
-  - [Roozbeh Sharifnasab](https://www.linkedin.com/in/rsharifnasab/) (PhD, _McMaster University_). 09/2025 - ...
-  - [Houston Zhang](https://www.linkedin.com/in/houston-zhang/) (M.Eng., _McMaster University_). 01/2025 - ...
+    - Co-supervised with Jean-Michel Bruel (UT2J)
   - [Carlos Zegarra](https://www.linkedin.com/in/cgzegarra/) (PhD, _McMaster University_). 09/2024 - ...
+  - [Dason Wang](https://www.linkedin.com/in/dason-wang/) (Undergraduate directed readings, _McMaster University_). 09/2025 - ...
+    - Co-supervised with Philippe Collet (UCA/McMaster)
 
 #### On Leave
+  - [Arman Samiei](https://www.linkedin.com/in/arman-samiei-20ba07324/) (M.A.Sc, _McMaster University_). 01/2024 - ...
+    - Current position: co-op internship CARFAX (05/25 - 12/25) & Nokia (01/26 - 04/26)
   - [Corinne Pulgar](https://www.linkedin.com/in/corinne-pulgar-12a58190/) (M.A.Sc., _École de Technologie Supérieure_). 09/2021 - ...
     - Co-supervised with Francis Bordeleau (ETS)
     - Current position: SecOps Cloud Specialist (full time) at Desjardins Bank 
-  - [Mina (Azam) Mahdipour](https://www.linkedin.com/in/mina-mahdipour/) (M.A.Sc., _McMaster University_). 01/2023 - ...
-    - Co-supervised with Vera Pantelic (McMaster)
-    - Current position: Software Infrastructure Developer (co-op intern) at Christie Digital Systems
 
 ### Postdoctoral Researchers
 
@@ -52,9 +51,8 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Research Assistants
 
-  - [Cass Braun](https://www.linkedin.com/in/cass-braun/), Research Assistant II, 09/24 - 04/25
-  - [Baptiste Lacroix](https://www.linkedin.com/in/lacroix-baptiste/), Research Assistant III, 06/25 - 08/25
-  - [Darshan Shah](https://www.linkedin.com/in/darshan-shah2), Research Assistant I, 05/25 - 08/25
+  - [Andrew Bovbel](https://www.linkedin.com/in/andrewbovbel/), Research Assistant II, 09/25 - 04/26
+  - [Saad Salman](https://www.linkedin.com/in/msaadsal/), Research Assistant II, 10/25 - 04/26
 
 
 ### Graduated Ph.D. Students
@@ -80,10 +78,13 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Graduated M.Sc./M.A.Sc. Students
 
-  - **Alexandre Lachance**, _LEVER: A FRAMEWORK FOR DSL EDITOR SUPPORT_.
+  - **Stepan Bryantsev**, _The Single Source of Truth Paradigm as a Tool for Supporting Software Maintenance_ [[PDF](https://macsphere.mcmaster.ca/handle/11375/31578)]
+    - M.A.Sc in Software Engineering (2023 - 2025)
+    - Position: Self-employed / consulting.
+  - **Alexandre Lachance**, _LEVER: A Framework for DSL Editor Support_. [[PDF](https://macsphere.mcmaster.ca/handle/11375/30989)]
     - M.A.Sc. in Software Engineering (2023 - 2024).
     - Position: Software Engineer, SG NDT
-  - **Hunter Zaker**, _A Semi-Automated Approach for Incremental Migration from Monolithic to Microservices Architecture_ ([PDF](http://hdl.handle.net/11375/30255))
+  - **Hunter Zaker**, _A Semi-Automated Approach for Incremental Migration from Monolithic to Microservices Architecture_ [[PDF](http://hdl.handle.net/11375/30255)]
     - M.A.Sc. in Software Engineering (2023 - 2024).
     - Position: Software Engineer, EQ Bank
   - **Günther Jungblunth**, Developing scalable data-processing pipelines
@@ -105,6 +106,15 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Graduated M.Eng. students
 
+  - 2025:
+    - **Waqar Awan** (01/24 - 04/25) [[PDF](https://macsphere.mcmaster.ca/handle/11375/31510)]
+      - _Master of Engineering_, _McMaster University_.
+      - Title: _REVERSE ENGINEERING MICROSERVICES USING SINGLE SOURCE OF TRUTH FOR ENHANCED INSIGHTS_
+      - Position: Software Developer, Survalent
+    - **Jason Lyu** (09/23 - 04/25) [[PDF](https://macsphere.mcmaster.ca/handle/11375/31509)]
+      - _Master of Engineering_, _McMaster University_.
+      - Title: _A STUDY ON JUSTIFICATION FOR HIGH-QUALITY KUBERNETES SYSTEMS_
+      - Position: Software Developer, Artic Wolf
   - 2024:
     - **Kai Sun** (09/2022 - 02/2024) [[PDF]](https://macsphere.mcmaster.ca/bitstream/11375/29641/2/Meng_Report_KaiSun_2024.03.pdf)
       - _Master of Engineering_, _McMaster University_.
@@ -125,19 +135,23 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 ### Former Research Assistants (2022-...)
 
+  - Cass Braun, Research Assistant II, 09/24 - 04/25
   - Nirmal Chaudari (B.Eng., _McMaster University_). Research Assistant II, 09/2023 - 04/2024
   - Noel Chungath Gregory (B.Eng., _McMaster University_). Research Assistant II, 09/2023 - 12/2023
   - Ahmed Elzaria (B.Eng., _McMaster University_). Research Assistant II, 09/2024 - 12/2024
 
 ### Former Research Interns (2016-...)
+- 2025:
+  - Baptiste Lacroix (MASc, _Université Côte d'Azur_). 06/25 - 08/25. CI/CD Execution environment for the jPipe platform
+  - Darshan Shah (B.Eng., _McMaster University_). 06/25 - 08/25. Justifying benchmarks for machine learning pipelines. (Dean's Excellence award)
 - 2024:
-  - Ahmed Elzaria (B.Eng, _McMaster University_). 05/2024 - 08/2024. _Justifying the development of a mental health ournalling application_.(Co-supervised with Marie-Jean Meurs, UQAM)
-  - Cass Braun (B.Eng, _McMaster University_). 05/2024 - 08/2024. _Developement of a langauge server for the jPipe language_ (NSERC USRA)
+  - Ahmed Elzaria (B.Eng, _McMaster University_). 05/2024 - 08/2024. _Justifying the development of a mental health journalling application_.(Co-supervised with Marie-Jean Meurs, UQAM)
+  - Cass Braun (B.Eng, _McMaster University_). 05/2024 - 08/2024. _Development of a language server for the jPipe language_ (NSERC USRA)
 - 2023:
   - Maël Charpentier (B.Sc., _Université de Montréal_). _An LSP server for the P4 language_ 05/2023 - 08/2023.
-  - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Imnproving Git Merge algorithms_ NSERC USRA award 
+  - Nirmal Chaudari (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Improving Git Merge algorithms_ NSERC USRA award 
   - Ahmed Elzaria (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Charting the LLVM compiler_ Dean's excellence in research award (EREA).
-  - Dennis Fong (B.Eng., _McMaster University_). _analysing how SAT can be iused in the Spack package manager_ 05/2023 - 08/2023.
+  - Dennis Fong (B.Eng., _McMaster University_). _Analyzing how SAT can be used in the Spack package manager_ 05/2023 - 08/2023.
   - Noel Chungath Gregory (B.Eng., _McMaster University_). _An LSP server for the P4 language_ 05/2023 - 08/2023.
   - Aaron Loh (B.Eng., _McMaster University_). 05/2023 - 08/2023. _Contributions to the jPipe environment_. Dean's excellence in research award (EREA).
   - Julia Brzustowski, BSc internship, McMaster. Probes to extract information from legacy software. (co- supervised with Vera Pantelic)
