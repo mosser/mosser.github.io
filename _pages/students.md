@@ -24,7 +24,7 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
 
   - [Sihui He](https://www.linkedin.com/in/sihui-he-6429551b0/) (M.Eng., _McMaster University_). 01/2026 - ...
-  - [Kalvin Khuu](https://www.linkedin.com/in/kalvin-khuu/) (MASc., _McMaster University_). 09/2024 - ...
+  - [Kalvin Khuu](https://www.linkedin.com/in/kalvin-khuu/) (Ph.D, _McMaster University_). 09/2024 - ...
   - [Nicolas Lacroix](https://www.linkedin.com/in/nicolas--lacroix/) (Ph.D., _Université Côte d'Azur_). 09/2024 - ...
     - co-supervised with Mireille Blay-Fornarino (UCA) and Frédéric Precioso (UCA)
   - [Mina (Azam) Mahdipour](https://www.linkedin.com/in/mina-mahdipour/) (M.A.Sc., _McMaster University_). 01/2023 - ...
@@ -34,8 +34,6 @@ If you're interested in Software Engineering, Safety, Certification from the len
   - [Nidhal Selmi](https://www.linkedin.com/in/nidhal-selmi-263892128/) (Ph.D., _Université Toulouse Jean-Jaurès_). 09/2024 - ...
     - Co-supervised with Jean-Michel Bruel (UT2J)
   - [Carlos Zegarra](https://www.linkedin.com/in/cgzegarra/) (PhD, _McMaster University_). 09/2024 - ...
-  - [Dason Wang](https://www.linkedin.com/in/dason-wang/) (Undergraduate directed readings, _McMaster University_). 09/2025 - ...
-    - Co-supervised with Philippe Collet (UCA/McMaster)
 
 #### On Leave
   - [Arman Samiei](https://www.linkedin.com/in/arman-samiei-20ba07324/) (M.A.Sc, _McMaster University_). 01/2024 - ...
@@ -53,6 +51,8 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
   - [Andrew Bovbel](https://www.linkedin.com/in/andrewbovbel/), Research Assistant II, 09/25 - 04/26
   - [Saad Salman](https://www.linkedin.com/in/msaadsal/), Research Assistant II, 10/25 - 04/26
+  - [Dason Wang](https://www.linkedin.com/in/dason-wang/), Research Assistant II, 01/26 - 04/26
+    - Co-supervised with Philippe Collet (UCA/McMaster)
 
 
 ### Graduated Ph.D. Students
@@ -132,6 +132,13 @@ If you're interested in Software Engineering, Safety, Certification from the len
     - **Amine Soufyani** (2021 - 2022) [[PDF]](../files/students/soufyani22.pdf)
       - _Maitrise en Génie Logiciel_, _Université du Québec à Montréal_.
       - Position: Full stack Engineer, Wrkr (Australia)
+
+### Undergraduate Research Projects
+
+  - Nirmal Chaudari, Undergraduate Research Project (SFWRENG 4RP3), 01/26 - 04/26
+    - Co-supervised with Charlie Welch (McMaster)
+  -  [Dason Wang](https://www.linkedin.com/in/dason-wang/), Undergraduate Directed Reading (COMPSCI 4Z03), 10/25 - 12/25
+    - Co-supervised with Philippe Collet (UCA/McMaster)
 
 ### Former Research Assistants (2022-...)
 
