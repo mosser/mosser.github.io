@@ -12,6 +12,7 @@ author_profile: true
   - (Micro-)Service Oriented Architectures
     - Description: [CAS 735](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=46&coid=243261&) (Graduate, elective, 3 units)
     - Sessions: Fall 2025 (11 students), Fall 2024 (21 students), Fall 2023 (21 students), Fall 2022 (20 students)
+      - _Since Fall 2025, enrollment in CAS 735 is restricted to CAS students only_.
 
 ### Courses previously offered at McMaster
 

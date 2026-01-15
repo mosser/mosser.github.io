@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Associate Professor of Software Engineering, PEng, PhD"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   employer         : "McMaster University, Faculty of Engineering, Department of Computing and Software"
-  bio              : "Geek, Snowboarder, and composition driven guy. Order may vary according to circumstances."
+  bio              : "Snowboarder turned software engineer after hugging a tree with too much intensity."
   location         : "Hamilton, ON"
   office           : "ITB 131"
   googleMaps       : "https://goo.gl/maps/a47LaLbBagBJvG1R6"
