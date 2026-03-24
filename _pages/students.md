@@ -18,17 +18,16 @@ If you're interested in Software Engineering, Safety, Certification from the len
   - M.Eng. in software engineering (DevOps, MLops)
   - Undergraduate summer internships (open topics related to McSCert's projects)
 
-
-
 ### Current Students
 
 #### Active
 
 
   - [Sihui He](https://www.linkedin.com/in/sihui-he-6429551b0/) (M.Eng., _McMaster University_). 01/2026 - ...
-  - [Kalvin Khuu](https://www.linkedin.com/in/kalvin-khuu/) (Ph.D, _McMaster University_). 09/2024 - ...
+  - [Kalvin Khuu](https://kalvinkhuu.github.io/) (Ph.D, _McMaster University_). 09/2024 - ...
   - [Nicolas Lacroix](https://www.linkedin.com/in/nicolas--lacroix/) (Ph.D., _Université Côte d'Azur_). 09/2024 - ...
     - co-supervised with Dr. Mireille Blay-Fornarino (UCA) and Dr. Frédéric Precioso (UCA)
+  - Hugo Raoul-Duval (Visiting grad student, École Militaire St Cyr Coëtquidan). 01/2026 - ... 04/2026
   - [Shyam Ravichandran](https://www.linkedin.com/in/shyam-ravichandran/) (Ph.D., _McMaster University_). 01/2025 - ...
     - Co-supervised with Dr. Denise Geiskkovitch (McMaster)
   - [Nidhal Selmi](https://www.linkedin.com/in/nidhal-selmi-263892128/) (Ph.D., _Université Toulouse Jean-Jaurès_). 09/2024 - ...
@@ -84,19 +83,19 @@ If you're interested in Software Engineering, Safety, Certification from the len
 
    - **Mina (Azam) Mahdipour**, _Supporting Software Maintenance in Heterogeneous Contexts with SST-Based Framework_ 
      - M.A.Sc. in Software Engineering (2023 - 2025), co-supervised with Vera Pantelic (McMaster)
-     - Position: open for work. [[LinkedIn]]((https://www.linkedin.com/in/mina-mahdipour/))
+     - Position: DevOps Engineer. [[LinkedIn]](https://www.linkedin.com/in/mina-mahdipour/)
   - **Stepan Bryantsev**, _The Single Source of Truth Paradigm as a Tool for Supporting Software Maintenance_ [[PDF](https://macsphere.mcmaster.ca/handle/11375/31578)]
     - M.A.Sc in Software Engineering (2023 - 2025)
-    - Position: Self-employed / consulting.
+    - Position: Self-employed / consulting. [LinkedIn](https://www.linkedin.com/in/stepan-bryantsev/)
   - **Alexandre Lachance**, _LEVER: A Framework for DSL Editor Support_. [[PDF](https://macsphere.mcmaster.ca/handle/11375/30989)]
     - M.A.Sc. in Software Engineering (2023 - 2024).
-    - Position: Software Engineer, SG NDT
-  - **Hunter Zaker**, _A Semi-Automated Approach for Incremental Migration from Monolithic to Microservices Architecture_ [[PDF](http://hdl.handle.net/11375/30255)]
+    - Position: Software Engineer, SG NDT [LinkedIn](https://www.linkedin.com/in/alexandre-lachance-36b497164/)
+  - **Hassan (Hunter) Zaker**, _A Semi-Automated Approach for Incremental Migration from Monolithic to Microservices Architecture_ [[PDF](http://hdl.handle.net/11375/30255)]
     - M.A.Sc. in Software Engineering (2023 - 2024).
-    - Position: Software Engineer, EQ Bank
-  - **Günther Jungblunth**, Developing scalable data-processing pipelines
+    - Position: Software Engineer, EQ Bank [LinkedIn](https://www.linkedin.com/in/hunter-zaker/)
+  - **Günther Jungbluth**, Developing scalable data-processing pipelines
     - M.Sc. in Software Engineering (2017 - 2018).
-    - Position: CTO, GameLabs (France).
+    - Position: CTO, GameLabs (France). [LinkedIn](https://www.linkedin.com/in/g%C3%BCnther-jungbluth-97364a11b/)
   - **Benjamin Benni**, A language-driven approach for model composition
     - M.Sc. in Software Engineering (2015 - 2016)
     - Position: continued as Ph.D. student in the group
@@ -108,7 +107,7 @@ If you're interested in Software Engineering, Safety, Certification from the len
     - Position: continued as Ph.D. student in the group
   - **Eirik Brandtzæg**, CloudML : A DSL for model-based realization of applications in the cloud [[PDF]](https://www.duo.uio.no/handle/10852/34894?locale-attribute=en)
     - M.Sc. in Computer Science (2011-2012) 
-    - Position: Developer, Softweria (Norway).
+    - Position: Developer, Softweria (Norway). [LinkedIn](https://www.linkedin.com/in/eirik-brandtz%C3%A6g-22253a286/)
 
 
 ### Graduated M.Eng. students
