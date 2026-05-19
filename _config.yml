@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : petitroll
+#twitter:
+#  username               : petitroll
 facebook:
   username               :
   app_id                 :
@@ -83,14 +83,14 @@ author:
   name             : "Associate Professor of Software Engineering, PEng, PhD"
   avatar           : "profile.jpg"
   employer         : "McMaster University, Faculty of Engineering, Department of Computing and Software"
-  bio              : "Snowboarder turned software engineer after hugging a tree with too much intensity."
+  bio              : "Snowboarder turned software engineer."
   location         : "Hamilton, ON"
-  office           : "ITB 131"
+  office           : "ITB 131 - ITB 101 (lab)"
   googleMaps       : "https://goo.gl/maps/a47LaLbBagBJvG1R6"
   googlescholar    : "https://scholar.google.fr/citations?user=jaLC6KgAAAAJ&hl=en"
   email            : "mossers@mcmaster.ca"
   github           : "mosser"
-  twitter          : "petitroll"
+#  twitter          : "petitroll"
   researchGroup    : "McSCert Lab"
   researchUri      : "https://www.mcscert.ca/"
   dblp             : "https://dblp.uni-trier.de/pers/hd/m/Mosser_0001:S=eacute=bastien"
