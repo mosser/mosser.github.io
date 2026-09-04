@@ -6,7 +6,7 @@ author_profile: true
 
 ### Open Source Philosophy
 
-All the research done in my group is released as open-source software, availabe on our GitHub organization.
+All the research done in my group is released as open-source software, available on our GitHub organization.
 
 - GitHub profile: [https://github.com/mosser](https://github.com/mosser)
 - Research group organization: [https://github.com/ace-design](https://github.com/ace-design)
@@ -15,12 +15,12 @@ All the research done in my group is released as open-source software, availabe 
 ### Actively Developed Software
 
 - **jPipe**: A domain-specific language to represent justification models
-  - Source code available on [Github](https://github.com/ace-design/jpipe)
+  - Source code available on [GitHub](https://github.com/ace-design/jpipe)
 
 ### Maintained Software
 
 - **P4LSP**: A Language Server Protocol implementation for the P4 language.
-  - Source code available on [Github](https://github.com/ace-design/p4-lsp)
+  - Source code available on [GitHub](https://github.com/ace-design/p4-lsp)
 - **Island**: A procedural content generator and game environment to teach software engineering
   - Source code available on [GitHub](https://github.com/ace-design/island)
 

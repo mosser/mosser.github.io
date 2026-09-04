@@ -7,8 +7,8 @@ author_profile: true
 ### Courses currently offered at McMaster University (2022 - ...)
 
   - Software Requirements and Security Considerations (Undergrad - Level III, mandatory for SE, 3 units)
-    - Description: [SFWRENG 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=241338&)/[COMPSCI 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=240350) 
-    - Session: Fall 2026 (???), Fall 2025 (180 students), Fall 2024 (202 students), Fall 2023 (211 students)
+    - Description: [SFWRENG 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=241338&)/[COMPSCI 3RA3](http://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=47&coid=240350)
+    - Sessions: Fall 2026 (???), Fall 2025 (180 students), Fall 2024 (202 students), Fall 2023 (211 students)
   - (Micro-)Service Oriented Architectures
     - Description: [CAS 735](https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=46&coid=243261&) (Graduate, elective, 3 units)
     - Sessions: Fall 2025 (11 students), Fall 2024 (21 students), Fall 2023 (21 students), Fall 2022 (20 students)
@@ -36,20 +36,20 @@ author_profile: true
     - Sessions: Summer 2020
 
 ### Courses offered at École Polytechnique de l'Université Côte d'Azur (2016 - 2018)
-  
+
   - Domain-specific languages & Meta-modelling (graduate, EIINA903)
     - Sessions: Fall 2018, Fall 2017, Fall 2016
   - Micro-services architectures (graduate, EIINA905)
-    - Sessions: Fall 2018, Fall 2017, Fall 2016 
+    - Sessions: Fall 2018, Fall 2017, Fall 2016
   - Software Architecture and DevOps (undergrad/graduate, EIIN830)
     - _Collaboration with IBM_
-    - Sessions: Winter 2018, Winter 2017 
+    - Sessions: Winter 2018, Winter 2017
   - Introduction to Software Engineering (undergrad, EII622)
     - Sessions: Winter 2018, Winter 2017
   - Software Development Project (undergrad, EIIN615)
     - Sessions: Winter 2018, Winter 2017
   - Innovation Projects (undergrad/graduate, EIIN717)
-    - Sessions: Spring 2018, Spring 2017 
+    - Sessions: Spring 2018, Spring 2017
 
 ### Invited course offered at École Normale Supérieure de Lyon
 
